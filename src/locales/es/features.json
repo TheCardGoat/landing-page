@@ -1,0 +1,36 @@
+{
+  "title": "CARACTERÍSTICAS DE NIVEL CABRA",
+  "subtitle": "Herramientas tan buenas que te harán decir \"¡BAAAAA!\" 🐐",
+  "features": [
+    {
+      "icon": "🃏",
+      "title": "Constructor de Mazos",
+      "description": "Crea, guarda y comparte tus mazos con nuestro intuitivo constructor. ¡Importa y exporta listas con facilidad!"
+    },
+    {
+      "icon": "🎮",
+      "title": "Simulador de Juego",
+      "description": "Practica tus estrategias en nuestro realista simulador de juegos con todas las reglas."
+    },
+    {
+      "icon": "📊",
+      "title": "Análisis de Meta",
+      "description": "Mantente por delante de la competencia con nuestras herramientas y reportes de análisis de meta."
+    },
+    {
+      "icon": "🧠",
+      "title": "IA de Entrenamiento",
+      "description": "Mejora tus habilidades jugando contra nuestra IA avanzada que aprende y se adapta a tu estilo de juego."
+    },
+    {
+      "icon": "🏆",
+      "title": "Torneos",
+      "description": "¡Únete a nuestros torneos regulares y sube en la clasificación para ganar recompensas especiales!"
+    },
+    {
+      "icon": "📱",
+      "title": "Compatible con Móviles",
+      "description": "Lleva tus cartas a cualquier lugar con nuestra plataforma para móviles - ¡practica en cualquier momento y lugar!"
+    }
+  ]
+} 

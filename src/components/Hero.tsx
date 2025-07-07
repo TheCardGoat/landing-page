@@ -1,13 +1,22 @@
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
+import { LanguageSwitcher } from './ui/language-switcher';
+import { useTranslation } from 'react-i18next';
 
 const Hero = () => {
+  const { t } = useTranslation('hero');
+  
   const navigateToDiscord = () => {
     window.open('https://discord.gg/NddrhpVZNP', '_blank');
   };
   
   return (
     <section className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden">
+      {/* Language Switcher positioned absolute */}
+      <div className="absolute top-4 right-4 z-50">
+        <LanguageSwitcher />
+      </div>
+      
       {/* Enhanced animated background decorative elements */}
       <div className="absolute top-10 left-10 w-20 h-20 bg-lime-400 rotate-12 rounded-lg border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] animate-bounce" style={{ animationDelay: '0s' }}></div>
       <div className="absolute top-32 right-16 w-16 h-16 bg-pink-500 -rotate-12 rounded-full border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] animate-pulse" style={{ animationDelay: '1s' }}></div>
@@ -22,10 +31,10 @@ const Hero = () => {
             {/* Logo/Title with staggered animation */}
             <div className="relative">
               <h1 className="text-6xl md:text-8xl font-black text-black mb-4 transform -rotate-1 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-                THE CARD
+                {t('title1')}
               </h1>
               <h1 className="text-6xl md:text-8xl font-black bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent transform rotate-1 animate-fade-in" style={{ animationDelay: '0.4s' }}>
-                GOAT
+                {t('title2')}
               </h1>
               <div className="absolute -top-4 -right-4 w-12 h-12 bg-yellow-400 rotate-12 border-4 border-black animate-spin" style={{ animationDuration: '3s' }}></div>
             </div>
@@ -33,10 +42,10 @@ const Hero = () => {
             {/* Subtitle with animation */}
             <div className="bg-lime-300 border-4 border-black p-6 transform rotate-1 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 animate-fade-in" style={{ animationDelay: '0.6s' }}>
               <p className="text-2xl md:text-3xl font-bold text-black">
-                🐐 The GOAT-est Trading Card Community! 🐐
+                {t('subtitle1')}
               </p>
               <p className="text-lg md:text-xl text-gray-800 mt-2 font-semibold">
-                Tools, Knowledge, and Epic Card Battles - All in One Herd!
+                {t('subtitle2')}
               </p>
             </div>
             
@@ -46,14 +55,14 @@ const Hero = () => {
                 className="bg-pink-500 hover:bg-pink-600 text-white font-black text-xl px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-110"
                 onClick={navigateToDiscord}
               >
-                JOIN THE HERD! 🚀
+                {t('joinButton')}
               </Button>
               <Button 
                 variant="outline" 
                 size="lg" 
                 className="bg-cyan-300 hover:bg-cyan-400 text-black font-black text-xl px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-110"
               >
-                EXPLORE TOOLS 🔧
+                {t('exploreButton')}
               </Button>
             </div>
           </div>
@@ -62,16 +71,16 @@ const Hero = () => {
         {/* Floating stats with enhanced animations */}
         <div className="flex justify-center gap-8 mt-12 flex-wrap">
           <div className="bg-purple-400 border-4 border-black p-4 transform -rotate-3 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1s' }}>
-            <div className="text-3xl font-black text-black">41k+</div>
-            <div className="text-sm font-bold text-black">Card Goats</div>
+            <div className="text-3xl font-black text-black">{t('stats.members')}</div>
+            <div className="text-sm font-bold text-black">{t('stats.membersLabel')}</div>
           </div>
           <div className="bg-yellow-400 border-4 border-black p-4 transform rotate-2 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1.2s' }}>
-            <div className="text-3xl font-black text-black">3.5M+</div>
-            <div className="text-sm font-bold text-black">Games Played</div>
+            <div className="text-3xl font-black text-black">{t('stats.games')}</div>
+            <div className="text-sm font-bold text-black">{t('stats.gamesLabel')}</div>
           </div>
           <div className="bg-green-400 border-4 border-black p-4 transform -rotate-1 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1.4s' }}>
-            <div className="text-3xl font-black text-black">24/7</div>
-            <div className="text-sm font-bold text-black">Community</div>
+            <div className="text-3xl font-black text-black">{t('stats.availability')}</div>
+            <div className="text-sm font-bold text-black">{t('stats.availabilityLabel')}</div>
           </div>
         </div>
       </div>

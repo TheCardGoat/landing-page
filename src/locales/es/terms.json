@@ -1,0 +1,41 @@
+{
+  "title": "Términos de Servicio",
+  "lastUpdated": "Última Actualización:",
+  "lastUpdatedDate": "1 de Agosto, 2024",
+  "introduction": {
+    "title": "Introducción",
+    "content": "¡Bienvenido a The Card Goat! Estos Términos de Servicio rigen tu uso de nuestro sitio web ubicado en thecardgoat.com (el 'Servicio') operado por The Card Goat. Al acceder a nuestro sitio web, aceptas estar sujeto a estos Términos. Si no estás de acuerdo con alguna parte de los términos, no podrás acceder al Servicio."
+  },
+  "usage": {
+    "title": "Uso del Servicio",
+    "content": "The Card Goat te otorga una licencia no transferible y no exclusiva para utilizar el Servicio con fines personales y no comerciales. Tu uso del Servicio está sujeto a las siguientes restricciones:",
+    "item1": "No puedes utilizar el Servicio para ningún propósito ilegal o no autorizado",
+    "item2": "No puedes copiar, modificar, distribuir, vender o arrendar ninguna parte de nuestro Servicio",
+    "item3": "No puedes realizar ingeniería inversa o intentar extraer el código fuente de nuestro software"
+  },
+  "account": {
+    "title": "Cuentas de Usuario",
+    "content": "Cuando creas una cuenta con nosotros, debes proporcionar información precisa, completa y actualizada en todo momento. No hacerlo constituye un incumplimiento de los Términos, lo que puede resultar en la terminación inmediata de tu cuenta en nuestro Servicio.",
+    "responsibilities": "Eres responsable de salvaguardar la contraseña que utilizas para acceder al Servicio y de cualquier actividad o acción bajo tu contraseña. Te recomendamos utilizar una contraseña 'fuerte' (que incluya letras mayúsculas y minúsculas, números y símbolos) con tu cuenta."
+  },
+  "intellectual": {
+    "title": "Propiedad Intelectual",
+    "content": "El Servicio y su contenido original (excluyendo el contenido proporcionado por los usuarios), características y funcionalidad son y seguirán siendo propiedad exclusiva de The Card Goat y sus licenciantes. El Servicio está protegido por derechos de autor, marcas registradas y otras leyes tanto de Estados Unidos como de países extranjeros. Nuestras marcas comerciales y diseño no pueden ser utilizados en conexión con ningún producto o servicio sin el consentimiento previo por escrito de The Card Goat."
+  },
+  "limitation": {
+    "title": "Limitación de Responsabilidad",
+    "content": "En ningún caso The Card Goat, ni sus directores, empleados, socios, agentes, proveedores o afiliados, serán responsables por cualquier daño indirecto, incidental, especial, consecuente o punitivo, incluyendo sin limitación, pérdida de ganancias, datos, uso, buena voluntad, u otras pérdidas intangibles, resultantes de (i) tu acceso o uso o incapacidad para acceder o usar el Servicio; (ii) cualquier conducta o contenido de terceros en el Servicio; (iii) cualquier contenido obtenido del Servicio; y (iv) acceso no autorizado, uso o alteración de tus transmisiones o contenido, ya sea basado en garantía, contrato, agravio (incluyendo negligencia) o cualquier otra teoría legal, independientemente de si se nos ha informado de la posibilidad de tal daño."
+  },
+  "termination": {
+    "title": "Terminación",
+    "content": "Podemos terminar o suspender tu cuenta inmediatamente, sin previo aviso o responsabilidad, por cualquier motivo, incluyendo, sin limitación, si incumples los Términos. Al terminar, tu derecho a utilizar el Servicio cesará inmediatamente. Si deseas terminar tu cuenta, simplemente puedes dejar de utilizar el Servicio."
+  },
+  "changes": {
+    "title": "Cambios en los Términos",
+    "content": "Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos Términos en cualquier momento. Lo que constituye un cambio material será determinado a nuestra sola discreción. Al continuar accediendo o utilizando nuestro Servicio después de que esas revisiones entren en vigor, aceptas estar sujeto a los términos revisados."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "content": "Si tienes alguna pregunta sobre estos Términos, por favor contáctanos en:"
+  }
+} 

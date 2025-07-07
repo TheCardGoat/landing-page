@@ -74,6 +74,14 @@ const Footer = () => {
               <p className="text-gray-300 font-semibold">
                 Made with 💖 by goats, for goats!
               </p>
+              <div className="mt-2">
+                <a 
+                  href="/terms" 
+                  className="text-sm text-white hover:underline"
+                >
+                  Terms of Service
+                </a>
+              </div>
             </div>
             
             <div className="flex gap-4">
