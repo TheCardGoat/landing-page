@@ -1,0 +1,33 @@
+{
+  "title": "QUI NOUS SOMMES",
+  "description": "Nous sommes l'équipe derrière <lorcanito>Lorcanito.com</lorcanito>, un simulateur de jeu de table communautaire pour Disney Lorcana. Nous utilisons notre expérience pour créer un projet open-source applicable à de nombreux jeux de cartes.",
+  "visitButton": "Visiter Lorcanito.com 🧙‍♂️",
+  "sections": {
+    "howWeStarted": {
+      "icon": "🌟",
+      "title": "Comment Nous Avons Commencé",
+      "description": "Cette communauté a été fondée pour résoudre un problème simple: tout le monde n'a pas accès à une scène TCG locale. Nous croyons que votre emplacement ou vos circonstances de vie ne devraient pas être un obstacle pour apprécier et maîtriser les jeux que vous aimez. The Card Goat a été créé pour être la maison en ligne de chaque joueur de TCG à la recherche d'un endroit pour pratiquer, apprendre et se connecter."
+    },
+    "whyJoin": {
+      "icon": "💪",
+      "title": "Pourquoi Nous Rejoindre",
+      "description": "Nous sommes une communauté à but non lucratif, basée sur les fans, dédiée à vous aider à vous améliorer. Nous fournissons les outils, les ressources et un espace de soutien pour que les joueurs de tous niveaux puissent améliorer leur jeu.",
+      "successStory": {
+        "highlight": "🏆 Histoire de Réussite:",
+        "content": "Nous avons aidé des parents occupés, des professionnels et des joueurs sans communauté de jeu locale à se transformer en champions de tournois régionaux!"
+      }
+    },
+    "roadmap": {
+      "icon": "🚀",
+      "title": "Notre Feuille de Route",
+      "description": "Nous ne faisons que commencer! Notre communauté prend de l'ampleur à mesure que nous développons des outils pour les jeux de cartes populaires.",
+      "milestone": {
+        "date": "Objectif: Début 2026",
+        "content": "Outils pleinement fonctionnels pour Disney Lorcana, Gundam et Riftbound"
+      },
+      "future": "Les considérations futures incluent:",
+      "futureGames": "Grand Archive, One Piece, Alpha Clash, Flesh and Blood",
+      "joinEarly": "Rejoignez-nous tôt et aidez à façonner notre communauté! 🐐"
+    }
+  }
+} 

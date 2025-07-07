@@ -41,6 +41,7 @@ import itCallToAction from './locales/it/callToAction.json';
 import itFooter from './locales/it/footer.json';
 import itTerms from './locales/it/terms.json';
 import itPrivacy from './locales/it/privacy.json';
+import itTcgGames from './locales/it/tcggames.json';
 
 import ptBRCommon from './locales/pt-BR/common.json';
 import ptBRHero from './locales/pt-BR/hero.json';
@@ -101,6 +102,7 @@ i18n
         footer: itFooter,
         terms: itTerms,
         privacy: itPrivacy,
+        tcggames: itTcgGames,
       },
       'pt-BR': {
         common: ptBRCommon,

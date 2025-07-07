@@ -1,0 +1,36 @@
+{
+  "title": "FONCTIONNALITÉS DE NIVEAU GOAT",
+  "subtitle": "Des outils si bons qu'ils vous feront dire \"BAAAAAH!\" 🐐",
+  "features": [
+    {
+      "icon": "🃏",
+      "title": "Constructeur de Deck",
+      "description": "Construisez, sauvegardez et partagez vos decks avec notre constructeur intuitif. Importez et exportez des listes facilement!"
+    },
+    {
+      "icon": "🎮",
+      "title": "Simulateur de Jeu",
+      "description": "Pratiquez vos stratégies dans notre simulateur réaliste avec application complète des règles."
+    },
+    {
+      "icon": "📊",
+      "title": "Analyse de Méta",
+      "description": "Gardez une longueur d'avance sur la compétition avec nos outils et rapports d'analyse méta complets."
+    },
+    {
+      "icon": "🧠",
+      "title": "Partenaire d'Entraînement IA",
+      "description": "Améliorez vos compétences en jouant contre notre IA avancée qui apprend et s'adapte à votre style de jeu."
+    },
+    {
+      "icon": "🏆",
+      "title": "Tournois",
+      "description": "Rejoignez nos tournois en ligne réguliers et grimpez dans le classement pour gagner des récompenses spéciales!"
+    },
+    {
+      "icon": "📱",
+      "title": "Compatible Mobile",
+      "description": "Emportez vos cartes partout grâce à notre plateforme mobile - pratiquez n'importe quand, n'importe où!"
+    }
+  ]
+} 

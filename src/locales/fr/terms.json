@@ -1,0 +1,41 @@
+{
+  "title": "Conditions d'Utilisation",
+  "lastUpdated": "Dernière Mise à Jour:",
+  "lastUpdatedDate": "1 Août 2024",
+  "introduction": {
+    "title": "Introduction",
+    "content": "Bienvenue à The Card Goat! Ces Conditions d'Utilisation régissent votre utilisation de notre site web situé à thecardgoat.com (le 'Service') exploité par The Card Goat. En accédant à notre site web, vous acceptez d'être lié par ces Conditions. Si vous n'êtes pas d'accord avec une partie des conditions, vous ne pouvez pas accéder au Service."
+  },
+  "usage": {
+    "title": "Utilisation du Service",
+    "content": "The Card Goat vous accorde une licence non-transférable et non-exclusive pour utiliser le Service à des fins personnelles et non commerciales. Votre utilisation du Service est soumise aux restrictions suivantes:",
+    "item1": "Vous ne pouvez pas utiliser le Service à des fins illégales ou non autorisées",
+    "item2": "Vous ne pouvez pas copier, modifier, distribuer, vendre ou louer une partie de notre Service",
+    "item3": "Vous ne pouvez pas faire de l'ingénierie inverse ou tenter d'extraire le code source de notre logiciel"
+  },
+  "account": {
+    "title": "Comptes Utilisateurs",
+    "content": "Lorsque vous créez un compte avec nous, vous devez fournir des informations exactes, complètes et à jour en tout temps. Le non-respect de cette obligation constitue une violation des Conditions, ce qui peut entraîner la résiliation immédiate de votre compte sur notre Service.",
+    "responsibilities": "Vous êtes responsable de la protection du mot de passe que vous utilisez pour accéder au Service et de toutes les activités ou actions effectuées sous votre mot de passe. Nous vous encourageons à utiliser un mot de passe 'fort' (comprenant des lettres majuscules et minuscules, des chiffres et des symboles) avec votre compte."
+  },
+  "intellectual": {
+    "title": "Propriété Intellectuelle",
+    "content": "Le Service et son contenu original (à l'exclusion du contenu fourni par les utilisateurs), ses fonctionnalités et ses fonctions sont et resteront la propriété exclusive de The Card Goat et de ses concédants. Le Service est protégé par les droits d'auteur, les marques de commerce et d'autres lois des États-Unis et des pays étrangers. Nos marques de commerce et notre habillage commercial ne peuvent pas être utilisés en relation avec un produit ou service sans le consentement écrit préalable de The Card Goat."
+  },
+  "limitation": {
+    "title": "Limitation de Responsabilité",
+    "content": "En aucun cas, The Card Goat, ni ses directeurs, employés, partenaires, agents, fournisseurs ou affiliés, ne seront responsables de tout dommage indirect, accessoire, spécial, consécutif ou punitif, y compris sans limitation, la perte de profits, de données, d'utilisation, de clientèle ou d'autres pertes immatérielles, résultant de (i) votre accès ou utilisation ou incapacité d'accéder ou d'utiliser le Service; (ii) toute conduite ou contenu d'un tiers sur le Service; (iii) tout contenu obtenu à partir du Service; et (iv) l'accès, l'utilisation ou la modification non autorisés de vos transmissions ou contenus, que ce soit sur la base d'une garantie, d'un contrat, d'un délit (y compris la négligence) ou de toute autre théorie juridique, que nous ayons été informés ou non de la possibilité de tels dommages."
+  },
+  "termination": {
+    "title": "Résiliation",
+    "content": "Nous pouvons résilier ou suspendre votre compte immédiatement, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris sans limitation si vous violez les Conditions. En cas de résiliation, votre droit d'utiliser le Service cessera immédiatement. Si vous souhaitez résilier votre compte, vous pouvez simplement cesser d'utiliser le Service."
+  },
+  "changes": {
+    "title": "Modifications des Conditions",
+    "content": "Nous nous réservons le droit, à notre seule discrétion, de modifier ou de remplacer ces Conditions à tout moment. Ce qui constitue un changement important sera déterminé à notre seule discrétion. En continuant à accéder ou à utiliser notre Service après que ces révisions soient entrées en vigueur, vous acceptez d'être lié par les conditions révisées."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "content": "Si vous avez des questions concernant ces Conditions, veuillez nous contacter à:"
+  }
+} 
