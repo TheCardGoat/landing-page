@@ -1,33 +1,33 @@
 {
-  "title": "QUEM SOMOS",
-  "description": "Somos a equipe por trás do <lorcanito>Lorcanito.com</lorcanito>, um simulador de jogos de mesa comunitário para Disney Lorcana. Estamos aplicando nosso conhecimento para criar um projeto de código aberto que pode ser adaptado para vários jogos de cartas.",
-  "visitButton": "Visite Lorcanito.com 🧙‍♂️",
+  "title": "CHI SIAMO",
+  "description": "Siamo il team dietro <lorcanito>Lorcanito.com</lorcanito>, un simulatore di giochi da tavolo comunitario per Disney Lorcana. Stiamo applicando la nostra conoscenza per creare un progetto open source che può essere adattato a vari giochi di carte.",
+  "visitButton": "Visita Lorcanito.com 🧙‍♂️",
   "sections": {
     "howWeStarted": {
       "icon": "🌟",
-      "title": "Como Começamos",
-      "description": "Esta comunidade foi fundada para resolver um problema simples: nem todos têm acesso a um cenário local de TCG. Acreditamos que sua localização ou circunstâncias de vida não devem ser uma barreira para desfrutar e dominar os jogos que você ama. O Card Goat foi criado para ser o lar online de todos os jogadores de TCG que buscam um lugar para praticar, aprender e se conectar."
+      "title": "Come Abbiamo Iniziato",
+      "description": "Questa comunità è stata fondata per risolvere un problema semplice: non tutti hanno accesso a una scena TCG locale. Crediamo che la tua posizione o le circostanze della tua vita non debbano essere una barriera per goderti e padroneggiare i giochi che ami. The Card Goat è stato creato per essere la casa online di tutti i giocatori di TCG che cercano un posto dove praticare, imparare e connettersi."
     },
     "whyJoin": {
       "icon": "💪",
-      "title": "Por Que Você Deve Se Juntar",
-      "description": "Somos uma comunidade sem fins lucrativos, baseada em fãs, dedicada a ajudá-lo a melhorar. Fornecemos ferramentas, recursos e um espaço de apoio para jogadores de todos os níveis aprimorarem seu jogo.",
+      "title": "Perché Dovresti Unirti",
+      "description": "Siamo una comunità non profit, basata sui fan, dedicata ad aiutarti a migliorare. Forniamo strumenti, risorse e uno spazio di supporto per giocatori di tutti i livelli per migliorare il loro gioco.",
       "successStory": {
-        "highlight": "🏆 História de Sucesso:",
-        "content": "Ajudamos pais ocupados, profissionais e jogadores sem comunidades locais a se transformarem em campeões de torneios regionais!"
+        "highlight": "🏆 Storia di Successo:",
+        "content": "Abbiamo aiutato genitori impegnati, professionisti e giocatori senza comunità locali a trasformarsi in campioni di tornei regionali!"
       }
     },
     "roadmap": {
       "icon": "🚀",
-      "title": "Nosso Roadmap",
-      "description": "Estamos apenas começando! Nossa comunidade está ganhando força enquanto desenvolvemos ferramentas para jogos populares de cartas colecionáveis.",
+      "title": "La Nostra Roadmap",
+      "description": "Siamo solo all'inizio! La nostra comunità sta acquistando slancio mentre sviluppiamo strumenti per giochi di carte collezionabili popolari.",
       "milestone": {
-        "date": "Meta: Início de 2026",
-        "content": "Ferramentas completamente funcionais para Disney Lorcana, Gundam e Riftbound"
+        "date": "Obiettivo: Inizio 2026",
+        "content": "Strumenti completamente funzionali per Disney Lorcana, Gundam e Riftbound"
       },
-      "future": "Considerações futuras incluem:",
+      "future": "Le considerazioni future includono:",
       "futureGames": "Grand Archive, One Piece, Alpha Clash, Flesh and Blood",
-      "joinEarly": "Junte-se a nós agora e ajude a moldar nossa comunidade! 🐐"
+      "joinEarly": "Unisciti a noi ora e aiutaci a plasmare la nostra comunità! 🐐"
     }
   }
 } 

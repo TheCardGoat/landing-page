@@ -1,81 +1,81 @@
 {
-  "title": "Política de Privacidade",
-  "lastUpdated": "Última Atualização:",
-  "lastUpdatedDate": "1 de Agosto de 2024",
+  "title": "Politica sulla Privacy",
+  "lastUpdated": "Ultimo Aggiornamento:",
+  "lastUpdatedDate": "1 Agosto 2024",
   "introduction": {
-    "title": "Introdução",
-    "content": "Esta Política de Privacidade descreve como o The Card Goat ('nós', 'nosso' ou 'nos') coleta, usa e compartilha suas informações pessoais quando você usa nosso site thecardgoat.com (o 'Serviço'). Ao usar o Serviço, você concorda com a coleta e uso de informações de acordo com esta política."
+    "title": "Introduzione",
+    "content": "Questa Politica sulla Privacy descrive come The Card Goat ('noi', 'nostro' o 'ci') raccoglie, utilizza e condivide le tue informazioni personali quando utilizzi il nostro sito web thecardgoat.com (il 'Servizio'). Utilizzando il Servizio, accetti la raccolta e l'uso delle informazioni in conformità con questa politica."
   },
   "information": {
-    "title": "Coleta e Uso de Informações",
-    "content": "Coletamos vários tipos diferentes de informações para diversos fins, para fornecer e melhorar nosso Serviço para você:",
-    "item1": "Dados Pessoais: Ao usar nosso Serviço, podemos solicitar que você nos forneça certas informações de identificação pessoal que podem ser usadas para contatá-lo ou identificá-lo ('Dados Pessoais'). Isso pode incluir seu endereço de e-mail, nome e outros detalhes de contato.",
-    "item2": "Dados de Uso: Também podemos coletar informações sobre como o Serviço é acessado e usado ('Dados de Uso'). Isso pode incluir informações como o endereço de Protocolo de Internet do seu computador, tipo de navegador, versão do navegador, as páginas do nosso Serviço que você visita, a hora e data da sua visita, o tempo gasto nessas páginas e outros dados de diagnóstico."
+    "title": "Raccolta e Utilizzo delle Informazioni",
+    "content": "Raccogliamo diversi tipi di informazioni per vari scopi per fornire e migliorare il nostro Servizio per te:",
+    "item1": "Dati Personali: Durante l'utilizzo del nostro Servizio, potremmo chiederti di fornirci alcune informazioni di identificazione personale che possono essere utilizzate per contattarti o identificarti ('Dati Personali'). Questi possono includere il tuo indirizzo email, nome e altri dettagli di contatto.",
+    "item2": "Dati di Utilizzo: Potremmo anche raccogliere informazioni su come il Servizio viene acceduto e utilizzato ('Dati di Utilizzo'). Questi possono includere informazioni come l'indirizzo del Protocollo Internet del tuo computer, tipo di browser, versione del browser, le pagine del nostro Servizio che visiti, l'ora e la data della tua visita, il tempo trascorso su quelle pagine e altri dati diagnostici."
   },
   "cookies": {
-    "title": "Cookies",
-    "content": "Usamos cookies e tecnologias de rastreamento semelhantes para rastrear a atividade em nosso Serviço e armazenar certas informações. Cookies são arquivos com uma pequena quantidade de dados que podem incluir um identificador único anônimo.",
-    "policy": "Você pode instruir seu navegador a recusar todos os cookies ou indicar quando um cookie está sendo enviado. No entanto, se você não aceitar cookies, talvez não consiga usar algumas partes do nosso Serviço."
+    "title": "Cookie",
+    "content": "Utilizziamo cookie e tecnologie di tracciamento simili per tenere traccia dell'attività sul nostro Servizio e memorizzare determinate informazioni. I cookie sono file con una piccola quantità di dati che possono includere un identificatore unico anonimo.",
+    "policy": "Puoi configurare il tuo browser per rifiutare tutti i cookie o per indicare quando viene inviato un cookie. Tuttavia, se non accetti i cookie, potresti non essere in grado di utilizzare alcune parti del nostro Servizio."
   },
   "dataUse": {
-    "title": "Uso de Dados",
-    "content": "O The Card Goat usa os dados coletados para vários propósitos:",
+    "title": "Utilizzo dei Dati",
+    "content": "The Card Goat utilizza i dati raccolti per vari scopi:",
     "purposes": [
-      "Para fornecer e manter nosso Serviço",
-      "Para notificá-lo sobre mudanças em nosso Serviço",
-      "Para permitir que você participe de recursos interativos do nosso Serviço quando você optar por fazê-lo",
-      "Para fornecer suporte ao cliente",
-      "Para coletar análises ou informações valiosas para que possamos melhorar nosso Serviço",
-      "Para monitorar o uso do nosso Serviço",
-      "Para detectar, prevenir e resolver problemas técnicos"
+      "Per fornire e mantenere il nostro Servizio",
+      "Per informarti sulle modifiche al nostro Servizio",
+      "Per permetterti di partecipare alle funzionalità interattive del nostro Servizio quando scegli di farlo",
+      "Per fornire assistenza clienti",
+      "Per raccogliere analisi o informazioni preziose in modo da poter migliorare il nostro Servizio",
+      "Per monitorare l'utilizzo del nostro Servizio",
+      "Per rilevare, prevenire e risolvere problemi tecnici"
     ]
   },
   "dataSharing": {
-    "title": "Compartilhamento e Divulgação de Dados",
-    "content": "Podemos divulgar seus Dados Pessoais na crença de boa-fé de que tal ação é necessária para:",
+    "title": "Condivisione e Divulgazione dei Dati",
+    "content": "Potremmo divulgare i tuoi Dati Personali in buona fede, ritenendo che tale azione sia necessaria per:",
     "reasons": [
-      "Cumprir uma obrigação legal",
-      "Proteger e defender os direitos ou propriedade do The Card Goat",
-      "Prevenir ou investigar possíveis irregularidades relacionadas ao Serviço",
-      "Proteger a segurança pessoal dos usuários do Serviço ou do público",
-      "Proteger contra responsabilidade legal"
+      "Adempiere a un obbligo legale",
+      "Proteggere e difendere i diritti o la proprietà di The Card Goat",
+      "Prevenire o investigare possibili illeciti in relazione al Servizio",
+      "Proteggere la sicurezza personale degli utenti del Servizio o del pubblico",
+      "Proteggere contro la responsabilità legale"
     ]
   },
   "dataRetention": {
-    "title": "Retenção de Dados",
-    "content": "Manteremos seus Dados Pessoais apenas pelo tempo necessário para os fins estabelecidos nesta Política de Privacidade. Manteremos e usaremos seus Dados Pessoais na medida necessária para cumprir nossas obrigações legais, resolver disputas e fazer cumprir nossos acordos e políticas legais."
+    "title": "Conservazione dei Dati",
+    "content": "Conserveremo i tuoi Dati Personali solo per il tempo necessario ai fini indicati in questa Politica sulla Privacy. Conserveremo e utilizzeremo i tuoi Dati Personali nella misura necessaria per adempiere ai nostri obblighi legali, risolvere controversie e far rispettare i nostri accordi e politiche legali."
   },
   "dataTransfer": {
-    "title": "Transferência de Dados",
-    "content": "Suas informações, incluindo Dados Pessoais, podem ser transferidas para — e mantidas em — computadores localizados fora do seu estado, província, país ou outra jurisdição governamental onde as leis de proteção de dados podem ser diferentes daquelas de sua jurisdição.",
-    "consent": "Seu consentimento a esta Política de Privacidade, seguido de sua submissão de tais informações, representa seu acordo com essa transferência."
+    "title": "Trasferimento dei Dati",
+    "content": "Le tue informazioni, inclusi i Dati Personali, potrebbero essere trasferite e mantenute su computer situati al di fuori del tuo stato, provincia, paese o altra giurisdizione governativa dove le leggi sulla protezione dei dati potrebbero essere diverse da quelle della tua giurisdizione.",
+    "consent": "Il tuo consenso a questa Politica sulla Privacy seguito dalla tua presentazione di tali informazioni rappresenta il tuo accordo a tale trasferimento."
   },
   "security": {
-    "title": "Segurança de Dados",
-    "content": "A segurança dos seus dados é importante para nós, mas lembre-se que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro. Embora nos esforcemos para usar meios comercialmente aceitáveis para proteger seus Dados Pessoais, não podemos garantir sua segurança absoluta."
+    "title": "Sicurezza dei Dati",
+    "content": "La sicurezza dei tuoi dati è importante per noi, ma ricorda che nessun metodo di trasmissione su Internet o metodo di archiviazione elettronica è sicuro al 100%. Mentre ci sforziamo di utilizzare mezzi commercialmente accettabili per proteggere i tuoi Dati Personali, non possiamo garantirne la sicurezza assoluta."
   },
   "yourRights": {
-    "title": "Seus Direitos de Proteção de Dados",
-    "content": "Dependendo da sua localização, você pode ter certos direitos em relação aos seus dados pessoais, como:",
+    "title": "I Tuoi Diritti di Protezione dei Dati",
+    "content": "A seconda della tua posizione, potresti avere determinati diritti riguardo ai tuoi dati personali, come:",
     "rights": [
-      "O direito de acessar, atualizar ou excluir as informações que temos sobre você",
-      "O direito de retificação",
-      "O direito de se opor",
-      "O direito de restrição",
-      "O direito à portabilidade de dados",
-      "O direito de retirar o consentimento"
+      "Il diritto di accedere, aggiornare o cancellare le informazioni che abbiamo su di te",
+      "Il diritto di rettifica",
+      "Il diritto di opposizione",
+      "Il diritto di restrizione",
+      "Il diritto alla portabilità dei dati",
+      "Il diritto di ritirare il consenso"
     ]
   },
   "childrenPrivacy": {
-    "title": "Privacidade das Crianças",
-    "content": "Nosso Serviço não se destina a ninguém com menos de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de qualquer pessoa com menos de 13 anos. Se você é pai ou responsável e está ciente de que seu filho nos forneceu Dados Pessoais, entre em contato conosco. Se descobrirmos que coletamos Dados Pessoais de crianças sem verificação do consentimento dos pais, tomamos medidas para remover essas informações de nossos servidores."
+    "title": "Privacy dei Minori",
+    "content": "Il nostro Servizio non si rivolge a persone di età inferiore ai 13 anni. Non raccogliamo intenzionalmente informazioni di identificazione personale da persone di età inferiore ai 13 anni. Se sei un genitore o tutore e sei a conoscenza che tuo figlio ci ha fornito Dati Personali, contattaci. Se veniamo a conoscenza di aver raccolto Dati Personali da minori senza la verifica del consenso dei genitori, adotteremo misure per rimuovere tali informazioni dai nostri server."
   },
   "changes": {
-    "title": "Alterações Nesta Política de Privacidade",
-    "content": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Informaremos você por e-mail e/ou um aviso destacado em nosso Serviço, antes que a alteração se torne efetiva, e atualizaremos a 'data efetiva' no topo desta Política de Privacidade."
+    "title": "Modifiche a Questa Politica sulla Privacy",
+    "content": "Potremmo aggiornare la nostra Politica sulla Privacy di tanto in tanto. Ti informeremo di eventuali modifiche pubblicando la nuova Politica sulla Privacy su questa pagina. Ti avviseremo via e-mail e/o con un avviso in evidenza sul nostro Servizio, prima che la modifica diventi effettiva, e aggiorneremo la 'data di efficacia' nella parte superiore di questa Politica sulla Privacy."
   },
   "contact": {
-    "title": "Contate-nos",
-    "content": "Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em:"
+    "title": "Contattaci",
+    "content": "Se hai domande su questa Politica sulla Privacy, contattaci a:"
   }
 } 
