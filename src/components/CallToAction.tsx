@@ -8,110 +8,70 @@ const CallToAction = () => {
 
   return (
     <section className="py-20 px-4 bg-gradient-to-br from-lime-400 via-cyan-400 to-blue-500 relative overflow-hidden">
-      {/* Background decorative elements */}
+      {/* Background decorative elements with animations */}
       <div className="absolute inset-0 opacity-20">
-        <div className="absolute top-10 left-10 w-20 h-20 bg-white rotate-12 border-4 border-black"></div>
-        <div className="absolute top-20 right-20 w-16 h-16 bg-white -rotate-12 rounded-full border-4 border-black"></div>
-        <div className="absolute bottom-20 left-1/4 w-24 h-24 bg-white rotate-45 border-4 border-black"></div>
-        <div className="absolute bottom-10 right-10 w-32 h-32 bg-white -rotate-12 border-4 border-black"></div>
-        <div className="absolute top-1/2 left-20 w-12 h-12 bg-white rotate-45 border-4 border-black"></div>
-        <div className="absolute top-1/3 right-1/4 w-18 h-18 bg-white -rotate-12 rounded-full border-4 border-black"></div>
+        <div className="absolute top-10 left-10 w-20 h-20 bg-white rotate-12 border-4 border-black animate-bounce" style={{ animationDelay: '0.5s', animationDuration: '4s' }}></div>
+        <div className="absolute top-20 right-20 w-16 h-16 bg-white -rotate-12 rounded-full border-4 border-black animate-pulse" style={{ animationDelay: '1.3s' }}></div>
+        <div className="absolute bottom-20 left-1/4 w-24 h-24 bg-white rotate-45 border-4 border-black animate-spin" style={{ animationDuration: '10s' }}></div>
+        <div className="absolute bottom-10 right-10 w-32 h-32 bg-white -rotate-12 border-4 border-black animate-bounce" style={{ animationDelay: '0.7s', animationDuration: '5s' }}></div>
+        <div className="absolute top-1/2 left-20 w-12 h-12 bg-white rotate-45 border-4 border-black animate-pulse" style={{ animationDelay: '2.1s' }}></div>
+        <div className="absolute top-1/3 right-1/4 w-18 h-18 bg-white -rotate-12 rounded-full border-4 border-black animate-bounce" style={{ animationDelay: '1.8s', animationDuration: '3.5s' }}></div>
+        <div className="absolute bottom-1/4 left-1/3 w-16 h-16 bg-white rotate-12 rounded-lg border-4 border-black animate-pulse" style={{ animationDelay: '0.9s' }}></div>
+        <div className="absolute top-3/4 right-1/5 w-24 h-24 bg-white -rotate-6 border-4 border-black animate-bounce" style={{ animationDelay: '1.2s', animationDuration: '4.5s' }}></div>
       </div>
-      
-      <div className="max-w-4xl mx-auto text-center relative z-10">
-        <Card className="p-12 bg-white border-8 border-black shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 transition-transform duration-300">
-          <div className="space-y-8">
-            {/* Main CTA Header */}
-            <div className="relative">
-              <h2 className="text-5xl md:text-7xl font-black text-black mb-6">
-                READY TO BE THE
-              </h2>
-              <div className="bg-gradient-to-r from-purple-600 to-pink-600 border-6 border-black p-4 transform -rotate-1 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] inline-block">
-                <h2 className="text-5xl md:text-7xl font-black text-white">
-                  GOAT? 🐐
-                </h2>
-              </div>
-            </div>
-            
-            {/* Description */}
-            <div className="bg-yellow-300 border-4 border-black p-6 transform rotate-1 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-              <p className="text-xl md:text-2xl font-bold text-black">
-                Join thousands of card enthusiasts who've already discovered 
-                the most epic trading card community on the internet!
-              </p>
-            </div>
-            
-            {/* Features list */}
-            <div className="grid md:grid-cols-2 gap-4 text-left">
-              <div className="bg-pink-300 border-4 border-black p-4 transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                <div className="flex items-center gap-3">
-                  <span className="text-2xl">🚀</span>
-                  <span className="font-bold text-lg text-black">Instant access to all tools</span>
+
+      <div className="max-w-6xl mx-auto relative z-10">
+        <div className="grid md:grid-cols-2 gap-16 items-center">
+          {/* Left side - Image/Card */}
+          <div className="relative">
+            <Card className="p-10 bg-pink-400 border-8 border-black shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] transform rotate-3 hover:rotate-0 transition-all duration-500 hover:shadow-[20px_20px_0px_0px_rgba(0,0,0,1)]">
+              <div className="relative">
+                <div className="text-9xl text-center mb-8">🐐</div>
+                <div className="bg-yellow-400 border-4 border-black p-4 transform -rotate-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                  <p className="text-2xl font-black text-center">JOIN 41,000+ CARD GOATS</p>
                 </div>
+                <div className="absolute -top-6 -right-6 w-12 h-12 bg-cyan-400 rotate-12 rounded-full border-4 border-black animate-spin" style={{ animationDuration: '3s' }}></div>
+                <div className="absolute -bottom-4 -left-4 w-8 h-8 bg-lime-400 -rotate-12 border-4 border-black animate-bounce"></div>
               </div>
-              <div className="bg-cyan-300 border-4 border-black p-4 transform rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                <div className="flex items-center gap-3">
-                  <span className="text-2xl">💎</span>
-                  <span className="font-bold text-lg text-black">Premium features included</span>
-                </div>
-              </div>
-              <div className="bg-lime-300 border-4 border-black p-4 transform rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                <div className="flex items-center gap-3">
-                  <span className="text-2xl">🎯</span>
-                  <span className="font-bold text-lg text-black">Expert strategies & guides</span>
-                </div>
-              </div>
-              <div className="bg-purple-300 border-4 border-black p-4 transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                <div className="flex items-center gap-3">
-                  <span className="text-2xl">🏆</span>
-                  <span className="font-bold text-lg text-black">Exclusive tournaments</span>
-                </div>
-              </div>
-            </div>
-            
-            {/* CTA Buttons */}
-            <div className="space-y-6">
-              <div className="bg-purple-400 border-4 border-black p-4 transform rotate-2 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] inline-block mb-4">
-                <p className="text-2xl font-black text-black">BECOME A CARD GOAT TODAY! 🃏</p>
-              </div>
-            
-              <Button 
-                size="lg" 
-                className="bg-red-500 hover:bg-red-600 text-white font-black text-3xl px-16 py-8 border-6 border-black shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 hover:shadow-[14px_14px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-105"
-                onClick={navigateToDiscord}
-              >
-                JOIN THE HERD NOW! 🐐🚀
-              </Button>
-              
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Button 
-                  variant="outline" 
-                  className="bg-white hover:bg-gray-100 text-black font-bold text-lg px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 transition-all duration-200"
-                  onClick={navigateToDiscord}
-                >
-                  Free Forever 🆓
-                </Button>
-                <Button 
-                  variant="outline" 
-                  className="bg-white hover:bg-gray-100 text-black font-bold text-lg px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 transition-all duration-200"
-                  onClick={navigateToDiscord}
-                >
-                  Learn More 📚
-                </Button>
-              </div>
-            </div>
-            
-            {/* Trust indicators */}
-            <div className="pt-8 border-t-4 border-black border-dashed">
-              <p className="text-lg font-bold text-gray-700 mb-4">
-                🔒 Trusted by 41,000+ Card Goats worldwide
-              </p>
-              <div className="flex justify-center gap-8 text-4xl">
-                <span>⭐⭐⭐⭐⭐</span>
-              </div>
-            </div>
+            </Card>
           </div>
-        </Card>
+          
+          {/* Right side - Text content */}
+          <div>
+            <Card className="p-8 bg-white border-6 border-black shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transform -rotate-2">
+              <h2 className="text-4xl md:text-5xl font-black text-black mb-6">
+                READY TO GET YOUR GOAT ON?
+              </h2>
+              <p className="text-xl font-bold text-gray-800 mb-8">
+                Join our community today and unlock exclusive benefits:
+              </p>
+              <ul className="space-y-4 mb-8">
+                <li className="flex items-center gap-3">
+                  <div className="w-6 h-6 bg-pink-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
+                  <span className="font-bold text-lg">Access to our full suite of trading card tools</span>
+                </li>
+                <li className="flex items-center gap-3">
+                  <div className="w-6 h-6 bg-lime-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
+                  <span className="font-bold text-lg">Connect with 41,000+ fellow card enthusiasts</span>
+                </li>
+                <li className="flex items-center gap-3">
+                  <div className="w-6 h-6 bg-cyan-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
+                  <span className="font-bold text-lg">Get early access to new features and games</span>
+                </li>
+                <li className="flex items-center gap-3">
+                  <div className="w-6 h-6 bg-yellow-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
+                  <span className="font-bold text-lg">Participate in exclusive tournaments and events</span>
+                </li>
+              </ul>
+              <Button 
+                onClick={navigateToDiscord}
+                className="w-full bg-black hover:bg-gray-800 text-white font-black text-xl py-4 border-4 border-white shadow-[8px_8px_0px_0px_rgba(255,255,255,0.5)] transform -rotate-1 hover:rotate-0 hover:shadow-[12px_12px_0px_0px_rgba(255,255,255,0.5)] transition-all duration-300"
+              >
+                JOIN OUR DISCORD 🚀
+              </Button>
+            </Card>
+          </div>
+        </div>
       </div>
     </section>
   );

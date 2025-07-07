@@ -1,74 +1,76 @@
-
 import { Card } from '@/components/ui/card';
 
 const TCGGames = () => {
   const supportedGames = [
     {
-      name: "Pokemon TCG",
-      status: "LIVE",
-      description: "Catch 'em all with our deck builder!",
-      icon: "⚡",
-      color: "bg-yellow-400",
+      name: "Disney Lorcana",
+      description: "The magical gathering of Disney characters!",
+      icon: "✨",
+      color: "bg-purple-400",
+      status: "LIVE NOW",
       delay: "0s"
     },
     {
-      name: "Magic: The Gathering",
-      status: "LIVE", 
-      description: "Planeswalker-approved tools!",
-      icon: "🔮",
-      color: "bg-purple-400",
-      delay: "0.1s"
+      name: "Gundam CW",
+      description: "Build your mecha army and dominate!",
+      icon: "🤖",
+      color: "bg-cyan-400",
+      status: "LIVE NOW",
+      delay: "0.2s"
     },
     {
-      name: "Yu-Gi-Oh!",
-      status: "LIVE",
-      description: "It's time to d-d-d-duel!",
-      icon: "👁️",
-      color: "bg-blue-400",
-      delay: "0.2s"
+      name: "Riftbound",
+      description: "Harness the power of the rifts!",
+      icon: "⚡",
+      color: "bg-lime-400",
+      status: "LIVE NOW",
+      delay: "0.4s"
+    }
+  ];
+
+  const comingSoonGames = [
+    {
+      name: "Grand Archive",
+      description: "The next evolution of card strategy!",
+      icon: "📚",
+      color: "bg-yellow-400",
+      status: "COMING SOON",
+      delay: "0.6s"
+    },
+    {
+      name: "One Piece",
+      description: "Sail the Grand Line with your crew!",
+      icon: "⛵",
+      color: "bg-pink-400",
+      status: "COMING SOON",
+      delay: "0.8s"
+    },
+    {
+      name: "Alpha Clash",
+      description: "All-new battle system with unlimited potential!",
+      icon: "🎭",
+      color: "bg-orange-400",
+      status: "COMING SOON",
+      delay: "1s"
     }
   ];
 
   const plannedGames = [
     {
-      name: "Digimon Card Game",
-      status: "COMING SOON",
-      description: "Digital monsters, digital tools!",
-      icon: "🦾",
-      color: "bg-orange-400",
-      delay: "0.3s"
-    },
-    {
-      name: "One Piece TCG",
-      status: "COMING SOON",
-      description: "Set sail for the Grand Line!",
-      icon: "🏴‍☠️",
-      color: "bg-red-400",
-      delay: "0.4s"
-    },
-    {
       name: "Flesh and Blood",
-      status: "COMING SOON",
-      description: "Epic battles await!",
+      description: "Test your might in this combat-focused TCG!",
       icon: "⚔️",
-      color: "bg-green-400",
-      delay: "0.5s"
+      color: "bg-red-400",
+      status: "PLANNED",
+      delay: "1.2s"
     },
     {
-      name: "Dragon Ball Super",
-      status: "PLANNED",
-      description: "Power up your deck game!",
-      icon: "🐉",
-      color: "bg-cyan-400",
-      delay: "0.6s"
-    },
-    {
-      name: "Lorcana",
-      status: "PLANNED",
-      description: "Disney magic meets strategy!",
-      icon: "✨",
-      color: "bg-pink-400",
-      delay: "0.7s"
+      name: "Your Suggestion",
+      description: "Tell us what game you want next!",
+      icon: "💡",
+      color: "bg-indigo-400",
+      status: "YOU DECIDE",
+      delay: "1.4s"
     }
   ];
 
@@ -76,10 +78,14 @@ const TCGGames = () => {
     <section className="py-20 px-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 relative overflow-hidden">
       {/* Animated background elements */}
       <div className="absolute inset-0 opacity-20">
-        <div className="absolute top-10 left-10 w-16 h-16 bg-white rounded-full animate-bounce" style={{ animationDelay: '0s' }}></div>
+        <div className="absolute top-10 left-10 w-16 h-16 bg-white rounded-full animate-bounce" style={{ animationDelay: '0s', animationDuration: '4s' }}></div>
         <div className="absolute top-32 right-20 w-12 h-12 bg-white rotate-45 animate-pulse" style={{ animationDelay: '1s' }}></div>
-        <div className="absolute bottom-20 left-1/4 w-20 h-20 bg-white rounded-full animate-bounce" style={{ animationDelay: '2s' }}></div>
+        <div className="absolute bottom-20 left-1/4 w-20 h-20 bg-white rounded-full animate-bounce" style={{ animationDelay: '2s', animationDuration: '3.5s' }}></div>
         <div className="absolute bottom-32 right-1/3 w-8 h-8 bg-white rotate-12 animate-pulse" style={{ animationDelay: '1.5s' }}></div>
+        <div className="absolute top-1/4 right-1/4 w-24 h-24 bg-white -rotate-6 rounded-lg animate-bounce" style={{ animationDelay: '0.5s', animationDuration: '5s' }}></div>
+        <div className="absolute top-2/3 left-1/3 w-14 h-14 bg-white rotate-45 animate-pulse" style={{ animationDelay: '2.5s' }}></div>
+        <div className="absolute bottom-1/4 right-10 w-16 h-16 bg-white -rotate-12 rounded-full animate-bounce" style={{ animationDelay: '1.8s', animationDuration: '4.5s' }}></div>
+        <div className="absolute top-1/2 left-10 w-10 h-10 bg-white rotate-12 animate-spin" style={{ animationDuration: '10s' }}></div>
       </div>
       
       <div className="max-w-7xl mx-auto relative z-10">
@@ -134,33 +140,63 @@ const TCGGames = () => {
 
         {/* Coming Soon & Planned Games */}
         <div>
-          <Card className="p-6 bg-yellow-300 border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform rotate-1 mb-8 hover:rotate-0 transition-transform duration-300">
+          <Card className="p-6 bg-pink-300 border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform rotate-1 mb-8 hover:rotate-0 transition-transform duration-300">
             <h3 className="text-3xl font-black text-black text-center">
-              🔮 MORE GOAT-NESS INCOMING! 🔮
+              🔮 THE FUTURE OF GOAT-DOM 🔮
             </h3>
           </Card>
           
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {/* Coming Soon Games */}
+          <div className="grid md:grid-cols-3 gap-8 mb-12">
+            {comingSoonGames.map((game, index) => (
+              <Card 
+                key={index}
+                className={`p-8 ${game.color} border-6 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform hover:rotate-0 hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-105 animate-fade-in`}
+                style={{ 
+                  animationDelay: game.delay,
+                  transform: index % 2 === 0 ? 'rotate(2deg)' : 'rotate(-2deg)'
+                }}
+              >
+                <div className="text-center space-y-4">
+                  <div className="text-6xl mb-4 animate-pulse" style={{ animationDelay: game.delay }}>
+                    {game.icon}
+                  </div>
+                  <div className="bg-blue-500 border-4 border-black px-4 py-2 inline-block transform rotate-1">
+                    <span className="text-sm font-black text-white">{game.status}</span>
+                  </div>
+                  <h4 className="text-2xl font-black text-black mb-3">
+                    {game.name}
+                  </h4>
+                  <p className="text-lg font-semibold text-gray-800">
+                    {game.description}
+                  </p>
+                </div>
+              </Card>
+            ))}
+          </div>
+          
+          {/* Planned Games */}
+          <div className="grid md:grid-cols-2 gap-8">
             {plannedGames.map((game, index) => (
               <Card 
                 key={index}
-                className={`p-6 ${game.color} border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform hover:rotate-0 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-105 animate-fade-in opacity-80 hover:opacity-100`}
+                className={`p-8 ${game.color} border-6 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform hover:rotate-0 hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-105 animate-fade-in`}
                 style={{ 
                   animationDelay: game.delay,
-                  transform: index % 3 === 0 ? 'rotate(-1deg)' : index % 3 === 1 ? 'rotate(1deg)' : 'rotate(-0.5deg)'
+                  transform: index % 2 === 0 ? 'rotate(-2deg)' : 'rotate(2deg)'
                 }}
               >
-                <div className="text-center space-y-3">
-                  <div className="text-4xl mb-3 animate-pulse" style={{ animationDelay: game.delay }}>
+                <div className="text-center space-y-4">
+                  <div className="text-6xl mb-4 animate-pulse" style={{ animationDelay: game.delay }}>
                     {game.icon}
                   </div>
-                  <div className={`${game.status === 'COMING SOON' ? 'bg-orange-500' : 'bg-gray-500'} border-3 border-black px-3 py-1 inline-block transform -rotate-1`}>
-                    <span className="text-xs font-black text-white">{game.status}</span>
+                  <div className="bg-purple-500 border-4 border-black px-4 py-2 inline-block transform -rotate-1">
+                    <span className="text-sm font-black text-white">{game.status}</span>
                   </div>
-                  <h4 className="text-xl font-black text-black mb-2">
+                  <h4 className="text-2xl font-black text-black mb-3">
                     {game.name}
                   </h4>
-                  <p className="text-md font-semibold text-gray-800">
+                  <p className="text-lg font-semibold text-gray-800">
                     {game.description}
                   </p>
                 </div>

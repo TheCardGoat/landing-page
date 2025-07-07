@@ -8,9 +8,12 @@ const WhoWeAre = () => {
 
   return (
     <section className="py-20 px-4 relative overflow-hidden">
-      {/* Background decorations */}
-      <div className="absolute top-20 left-20 w-28 h-28 bg-purple-400 rotate-12 rounded-lg border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] opacity-20"></div>
-      <div className="absolute bottom-40 right-20 w-20 h-20 bg-pink-500 -rotate-12 rounded-full border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] opacity-20"></div>
+      {/* Background decorations with animations */}
+      <div className="absolute top-20 left-20 w-28 h-28 bg-purple-400 rotate-12 rounded-lg border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] opacity-20 animate-bounce" style={{ animationDelay: '0.2s', animationDuration: '3s' }}></div>
+      <div className="absolute bottom-40 right-20 w-20 h-20 bg-pink-500 -rotate-12 rounded-full border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] opacity-20 animate-pulse" style={{ animationDelay: '1.5s' }}></div>
+      <div className="absolute top-1/3 left-1/4 w-16 h-16 bg-yellow-400 rotate-45 border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] opacity-20 animate-bounce" style={{ animationDelay: '0.7s', animationDuration: '2.5s' }}></div>
+      <div className="absolute bottom-20 right-1/3 w-24 h-24 bg-cyan-400 -rotate-6 rounded-lg border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] opacity-20 animate-pulse" style={{ animationDelay: '1s' }}></div>
+      <div className="absolute top-3/4 left-10 w-12 h-12 bg-lime-400 rotate-12 rounded-full border-4 border-black opacity-20 animate-bounce" style={{ animationDelay: '0.3s', animationDuration: '4s' }}></div>
       
       <div className="max-w-7xl mx-auto">
         {/* Section Header */}

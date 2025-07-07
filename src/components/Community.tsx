@@ -8,11 +8,14 @@ const Community = () => {
   
   return (
     <section className="py-20 px-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 relative overflow-hidden">
-      {/* Background shapes */}
+      {/* Background shapes with animations */}
       <div className="absolute top-0 left-0 w-full h-full opacity-10">
-        <div className="absolute top-20 left-20 w-40 h-40 bg-white rotate-12 border-8 border-black"></div>
-        <div className="absolute bottom-20 right-20 w-32 h-32 bg-white -rotate-12 rounded-full border-8 border-black"></div>
-        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-60 h-60 bg-white rotate-45 border-8 border-black"></div>
+        <div className="absolute top-20 left-20 w-40 h-40 bg-white rotate-12 border-8 border-black animate-bounce" style={{ animationDelay: '0.2s', animationDuration: '6s' }}></div>
+        <div className="absolute bottom-20 right-20 w-32 h-32 bg-white -rotate-12 rounded-full border-8 border-black animate-pulse" style={{ animationDelay: '1.5s' }}></div>
+        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-60 h-60 bg-white rotate-45 border-8 border-black animate-spin" style={{ animationDuration: '15s' }}></div>
+        <div className="absolute top-1/4 right-1/3 w-24 h-24 bg-white rounded-lg border-8 border-black animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }}></div>
+        <div className="absolute bottom-1/3 left-1/4 w-36 h-36 bg-white -rotate-6 rounded-full border-8 border-black animate-pulse" style={{ animationDelay: '2.5s' }}></div>
+        <div className="absolute top-3/4 right-1/5 w-20 h-20 bg-white rotate-12 border-8 border-black animate-bounce" style={{ animationDelay: '0.7s', animationDuration: '5s' }}></div>
       </div>
       
       <div className="max-w-6xl mx-auto relative z-10">
