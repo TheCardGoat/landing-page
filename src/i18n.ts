@@ -32,6 +32,16 @@ import deFooter from './locales/de/footer.json';
 import deTerms from './locales/de/terms.json';
 import dePrivacy from './locales/de/privacy.json';
 
+import itCommon from './locales/it/common.json';
+import itHero from './locales/it/hero.json';
+import itFeatures from './locales/it/features.json';
+import itCommunity from './locales/it/community.json';
+import itWhoWeAre from './locales/it/whoWeAre.json';
+import itCallToAction from './locales/it/callToAction.json';
+import itFooter from './locales/it/footer.json';
+import itTerms from './locales/it/terms.json';
+import itPrivacy from './locales/it/privacy.json';
+
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
@@ -70,6 +80,17 @@ i18n
         terms: deTerms,
         privacy: dePrivacy,
       },
+      it: {
+        common: itCommon,
+        hero: itHero,
+        features: itFeatures,
+        community: itCommunity,
+        whoWeAre: itWhoWeAre,
+        callToAction: itCallToAction,
+        footer: itFooter,
+        terms: itTerms,
+        privacy: itPrivacy,
+      },
     },
     fallbackLng: 'en',
     debug: process.env.NODE_ENV !== 'production',
@@ -77,6 +98,29 @@ i18n
       escapeValue: false, // React already safes from XSS
     },
     ns: ['common', 'hero', 'features', 'community', 'whoWeAre', 'callToAction', 'footer', 'terms', 'privacy'],
+    defaultNS: 'common',
+  });
+
+export default i18n; 
+      'pt-BR': {
+        common: ptBRCommon,
+        hero: ptBRHero,
+        features: ptBRFeatures,
+        community: ptBRCommunity,
+        whoWeAre: ptBRWhoWeAre,
+        callToAction: ptBRCallToAction,
+        footer: ptBRFooter,
+        terms: ptBRTerms,
+        privacy: ptBRPrivacy,
+        tcggames: ptBRTcgGames,
+      },
+    },
+    fallbackLng: 'en',
+    debug: process.env.NODE_ENV !== 'production',
+    interpolation: {
+      escapeValue: false, // React already safes from XSS
+    },
+    ns: ['common', 'hero', 'features', 'community', 'whoWeAre', 'callToAction', 'footer', 'terms', 'privacy', 'tcggames'],
     defaultNS: 'common',
   });
 
