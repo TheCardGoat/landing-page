@@ -1,8 +1,11 @@
-
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 
 const Hero = () => {
+  const navigateToDiscord = () => {
+    window.open('https://discord.gg/NddrhpVZNP', '_blank');
+  };
+  
   return (
     <section className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden">
       {/* Enhanced animated background decorative elements */}
@@ -22,7 +25,7 @@ const Hero = () => {
                 THE CARD
               </h1>
               <h1 className="text-6xl md:text-8xl font-black bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent transform rotate-1 animate-fade-in" style={{ animationDelay: '0.4s' }}>
-                GOAR
+                GOAT
               </h1>
               <div className="absolute -top-4 -right-4 w-12 h-12 bg-yellow-400 rotate-12 border-4 border-black animate-spin" style={{ animationDuration: '3s' }}></div>
             </div>
@@ -37,11 +40,11 @@ const Hero = () => {
               </p>
             </div>
             
-            {/* CTA Buttons with staggered hover animations */}
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center animate-fade-in" style={{ animationDelay: '0.8s' }}>
               <Button 
                 size="lg" 
                 className="bg-pink-500 hover:bg-pink-600 text-white font-black text-xl px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-110"
+                onClick={navigateToDiscord}
               >
                 JOIN THE HERD! 🚀
               </Button>
@@ -59,12 +62,12 @@ const Hero = () => {
         {/* Floating stats with enhanced animations */}
         <div className="flex justify-center gap-8 mt-12 flex-wrap">
           <div className="bg-purple-400 border-4 border-black p-4 transform -rotate-3 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1s' }}>
-            <div className="text-3xl font-black text-black">1000+</div>
+            <div className="text-3xl font-black text-black">41k+</div>
             <div className="text-sm font-bold text-black">Card Goats</div>
           </div>
           <div className="bg-yellow-400 border-4 border-black p-4 transform rotate-2 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1.2s' }}>
-            <div className="text-3xl font-black text-black">50K+</div>
-            <div className="text-sm font-bold text-black">Cards Traded</div>
+            <div className="text-3xl font-black text-black">3.5M+</div>
+            <div className="text-sm font-bold text-black">Games Played</div>
           </div>
           <div className="bg-green-400 border-4 border-black p-4 transform -rotate-1 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-all duration-300 hover:scale-110 animate-fade-in" style={{ animationDelay: '1.4s' }}>
             <div className="text-3xl font-black text-black">24/7</div>

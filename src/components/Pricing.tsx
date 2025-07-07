@@ -1,9 +1,12 @@
-
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 
 const Pricing = () => {
+  const navigateToDiscord = () => {
+    window.open('https://discord.gg/NddrhpVZNP', '_blank');
+  };
+  
   const plans = [
     {
       name: "Free Goat",
@@ -109,7 +112,7 @@ const Pricing = () => {
               SUPPORT THE HERD! 🐐
             </h2>
             <p className="text-lg md:text-xl text-gray-800 font-semibold">
-              The Card Goar is FREE to use, but we need your support to keep growing!
+              The Card Goat is FREE to use, but we need your support to keep growing!
             </p>
             <p className="text-base md:text-lg text-gray-700 mt-2">
               Every subscription helps us build better tools for the entire TCG community 💪
@@ -160,6 +163,7 @@ const Pricing = () => {
                 
                 <Button 
                   className={`w-full ${plan.buttonColor} text-white font-black border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 ${plan.special ? 'animate-pulse' : ''}`}
+                  onClick={navigateToDiscord}
                 >
                   {plan.price === "$0" ? "JOIN FREE!" : "GET STARTED!"}
                 </Button>

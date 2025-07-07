@@ -1,4 +1,3 @@
-
 import { Card } from '@/components/ui/card';
 
 const Features = () => {
@@ -18,9 +17,9 @@ const Features = () => {
       rotation: "rotate-1"
     },
     {
-      title: "Trading Hub",
-      description: "Trade cards like a true GOAT! Safe and secure!",
-      icon: "🔄",
+      title: "Tabletop Simulator",
+      description: "Play your favorite card games online with friends anytime!",
+      icon: "🎲",
       color: "bg-lime-400",
       rotation: "-rotate-1"
     },

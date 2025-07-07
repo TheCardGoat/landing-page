@@ -1,8 +1,11 @@
-
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 
 const Community = () => {
+  const navigateToDiscord = () => {
+    window.open('https://discord.gg/NddrhpVZNP', '_blank');
+  };
+  
   return (
     <section className="py-20 px-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 relative overflow-hidden">
       {/* Background shapes */}
@@ -28,7 +31,7 @@ const Community = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <div className="w-4 h-4 bg-lime-400 border-2 border-black transform rotate-45"></div>
-                  <span className="font-bold text-lg">Daily tournaments and events</span>
+                  <span className="font-bold text-lg">Online practice sessions and matches</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-4 h-4 bg-pink-400 border-2 border-black transform rotate-45"></div>
@@ -97,6 +100,7 @@ const Community = () => {
           <Button 
             size="lg" 
             className="bg-white hover:bg-gray-100 text-black font-black text-2xl px-12 py-6 border-6 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300"
+            onClick={navigateToDiscord}
           >
             BECOME A CARD GOAT TODAY! 🚀
           </Button>

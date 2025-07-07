@@ -1,8 +1,11 @@
-
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 
 const CallToAction = () => {
+  const navigateToDiscord = () => {
+    window.open('https://discord.gg/NddrhpVZNP', '_blank');
+  };
+
   return (
     <section className="py-20 px-4 bg-gradient-to-br from-lime-400 via-cyan-400 to-blue-500 relative overflow-hidden">
       {/* Background decorative elements */}
@@ -68,9 +71,14 @@ const CallToAction = () => {
             
             {/* CTA Buttons */}
             <div className="space-y-6">
+              <div className="bg-purple-400 border-4 border-black p-4 transform rotate-2 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] inline-block mb-4">
+                <p className="text-2xl font-black text-black">BECOME A CARD GOAT TODAY! 🃏</p>
+              </div>
+            
               <Button 
                 size="lg" 
                 className="bg-red-500 hover:bg-red-600 text-white font-black text-3xl px-16 py-8 border-6 border-black shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 hover:shadow-[14px_14px_0px_0px_rgba(0,0,0,1)] transition-all duration-300 hover:scale-105"
+                onClick={navigateToDiscord}
               >
                 JOIN THE HERD NOW! 🐐🚀
               </Button>
@@ -79,12 +87,14 @@ const CallToAction = () => {
                 <Button 
                   variant="outline" 
                   className="bg-white hover:bg-gray-100 text-black font-bold text-lg px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 transition-all duration-200"
+                  onClick={navigateToDiscord}
                 >
-                  Free Trial 🆓
+                  Free Forever 🆓
                 </Button>
                 <Button 
                   variant="outline" 
                   className="bg-white hover:bg-gray-100 text-black font-bold text-lg px-8 py-4 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transform -rotate-1 hover:rotate-0 transition-all duration-200"
+                  onClick={navigateToDiscord}
                 >
                   Learn More 📚
                 </Button>
@@ -94,7 +104,7 @@ const CallToAction = () => {
             {/* Trust indicators */}
             <div className="pt-8 border-t-4 border-black border-dashed">
               <p className="text-lg font-bold text-gray-700 mb-4">
-                🔒 Trusted by 10,000+ Card Goats worldwide
+                🔒 Trusted by 41,000+ Card Goats worldwide
               </p>
               <div className="flex justify-center gap-8 text-4xl">
                 <span>⭐⭐⭐⭐⭐</span>

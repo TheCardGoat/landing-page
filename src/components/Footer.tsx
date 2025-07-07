@@ -18,7 +18,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="lg:col-span-2">
             <Card className="p-6 bg-gradient-to-r from-purple-600 to-pink-600 border-4 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] transform -rotate-1">
-              <h3 className="text-3xl font-black text-white mb-4">THE CARD GOAR</h3>
+              <h3 className="text-3xl font-black text-white mb-4">THE CARD GOAT</h3>
               <p className="text-lg font-semibold text-white/90 mb-4">
                 The ultimate trading card community where legends are born and goats roam free! 🐐
               </p>
@@ -55,10 +55,10 @@ const Footer = () => {
             <Card className="p-6 bg-yellow-400 border-4 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] transform -rotate-1 h-full">
               <h4 className="text-xl font-black text-black mb-4">GET IN TOUCH</h4>
               <ul className="space-y-2">
-                <li className="font-bold text-black">📧 hello@cardgoar.com</li>
+                <li className="font-bold text-black">📧 hello@thecardgoat.com</li>
                 <li className="font-bold text-black">💬 Discord Server</li>
-                <li className="font-bold text-black">📱 @CardGoar</li>
-                <li className="font-bold text-black">🐐 Support 24/7</li>
+                <li className="font-bold text-black">📱 @eduardomoroni</li>
+                <li className="font-bold text-black">🐐 24/7</li>
               </ul>
             </Card>
           </div>
@@ -69,7 +69,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-center md:text-left">
               <p className="font-bold text-lg">
-                © 2024 The Card Goar - All rights reserved
+                © 2024 The Card Goat - All rights reserved
               </p>
               <p className="text-gray-300 font-semibold">
                 Made with 💖 by goats, for goats!
