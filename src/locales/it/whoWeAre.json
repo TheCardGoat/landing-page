@@ -1,0 +1,33 @@
+{
+  "title": "QUEM SOMOS",
+  "description": "Somos a equipe por trás do <lorcanito>Lorcanito.com</lorcanito>, um simulador de jogos de mesa comunitário para Disney Lorcana. Estamos aplicando nosso conhecimento para criar um projeto de código aberto que pode ser adaptado para vários jogos de cartas.",
+  "visitButton": "Visite Lorcanito.com 🧙‍♂️",
+  "sections": {
+    "howWeStarted": {
+      "icon": "🌟",
+      "title": "Como Começamos",
+      "description": "Esta comunidade foi fundada para resolver um problema simples: nem todos têm acesso a um cenário local de TCG. Acreditamos que sua localização ou circunstâncias de vida não devem ser uma barreira para desfrutar e dominar os jogos que você ama. O Card Goat foi criado para ser o lar online de todos os jogadores de TCG que buscam um lugar para praticar, aprender e se conectar."
+    },
+    "whyJoin": {
+      "icon": "💪",
+      "title": "Por Que Você Deve Se Juntar",
+      "description": "Somos uma comunidade sem fins lucrativos, baseada em fãs, dedicada a ajudá-lo a melhorar. Fornecemos ferramentas, recursos e um espaço de apoio para jogadores de todos os níveis aprimorarem seu jogo.",
+      "successStory": {
+        "highlight": "🏆 História de Sucesso:",
+        "content": "Ajudamos pais ocupados, profissionais e jogadores sem comunidades locais a se transformarem em campeões de torneios regionais!"
+      }
+    },
+    "roadmap": {
+      "icon": "🚀",
+      "title": "Nosso Roadmap",
+      "description": "Estamos apenas começando! Nossa comunidade está ganhando força enquanto desenvolvemos ferramentas para jogos populares de cartas colecionáveis.",
+      "milestone": {
+        "date": "Meta: Início de 2026",
+        "content": "Ferramentas completamente funcionais para Disney Lorcana, Gundam e Riftbound"
+      },
+      "future": "Considerações futuras incluem:",
+      "futureGames": "Grand Archive, One Piece, Alpha Clash, Flesh and Blood",
+      "joinEarly": "Junte-se a nós agora e ajude a moldar nossa comunidade! 🐐"
+    }
+  }
+} 

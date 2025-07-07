@@ -1,4 +1,9 @@
 {
   "languageName": "Français",
-  "appName": "THE CARD GOAT"
+  "appName": "THE CARD GOAT",
+  "notFound": {
+    "title": "404",
+    "description": "Oups! Page non trouvée",
+    "returnHome": "Retour à l'accueil"
+  }
 } 

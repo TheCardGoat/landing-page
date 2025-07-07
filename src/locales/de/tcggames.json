@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "TCG-UNIVERSUM 🌟",
+  "sectionSubtitle": "Jedes Kartenspiel, das du liebst, auf einer ZIEGEN-starken Plattform!",
+  "liveGamesTitle": "🚀 LIVE & BEREIT ZU SPIELEN! 🚀",
+  "futureGamesTitle": "🔮 DIE ZUKUNFT DER ZIEGENHERDE 🔮",
+  "noFavoriteGameTitle": "Dein Lieblings-TCG nicht dabei? 🤔",
+  "noFavoriteGameDescription": "Lass es uns wissen und wir nehmen es in die Herde auf! Die Stimme jeder Ziege zählt! 📢",
+  "supportedGames": [
+    {
+      "name": "Disney Lorcana",
+      "description": "Die magische Versammlung der Disney-Charaktere!",
+      "status": "JETZT VERFÜGBAR"
+    },
+    {
+      "name": "Gundam CW",
+      "description": "Baue deine Mecha-Armee auf und dominiere!",
+      "status": "JETZT VERFÜGBAR"
+    },
+    {
+      "name": "Riftbound",
+      "description": "Nutze die Kraft der Risse!",
+      "status": "JETZT VERFÜGBAR"
+    }
+  ],
+  "comingSoonGames": [
+    {
+      "name": "Grand Archive",
+      "description": "Die nächste Evolution der Kartenstrategie!",
+      "status": "DEMNÄCHST"
+    },
+    {
+      "name": "One Piece",
+      "description": "Segele mit deiner Crew auf der Grand Line!",
+      "status": "DEMNÄCHST"
+    },
+    {
+      "name": "Alpha Clash",
+      "description": "Brandneues Kampfsystem mit unbegrenztem Potenzial!",
+      "status": "DEMNÄCHST"
+    }
+  ],
+  "plannedGames": [
+    {
+      "name": "Flesh and Blood",
+      "description": "Teste deine Stärke in diesem kampforientierten TCG!",
+      "status": "GEPLANT"
+    },
+    {
+      "name": "Dein Vorschlag",
+      "description": "Sag uns, welches Spiel du als nächstes sehen willst!",
+      "status": "DU ENTSCHEIDEST"
+    }
+  ]
+} 

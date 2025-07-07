@@ -1,0 +1,81 @@
+{
+  "title": "Política de Privacidade",
+  "lastUpdated": "Última Atualização:",
+  "lastUpdatedDate": "1 de Agosto de 2024",
+  "introduction": {
+    "title": "Introdução",
+    "content": "Esta Política de Privacidade descreve como o The Card Goat ('nós', 'nosso' ou 'nos') coleta, usa e compartilha suas informações pessoais quando você usa nosso site thecardgoat.com (o 'Serviço'). Ao usar o Serviço, você concorda com a coleta e uso de informações de acordo com esta política."
+  },
+  "information": {
+    "title": "Coleta e Uso de Informações",
+    "content": "Coletamos vários tipos diferentes de informações para diversos fins, para fornecer e melhorar nosso Serviço para você:",
+    "item1": "Dados Pessoais: Ao usar nosso Serviço, podemos solicitar que você nos forneça certas informações de identificação pessoal que podem ser usadas para contatá-lo ou identificá-lo ('Dados Pessoais'). Isso pode incluir seu endereço de e-mail, nome e outros detalhes de contato.",
+    "item2": "Dados de Uso: Também podemos coletar informações sobre como o Serviço é acessado e usado ('Dados de Uso'). Isso pode incluir informações como o endereço de Protocolo de Internet do seu computador, tipo de navegador, versão do navegador, as páginas do nosso Serviço que você visita, a hora e data da sua visita, o tempo gasto nessas páginas e outros dados de diagnóstico."
+  },
+  "cookies": {
+    "title": "Cookies",
+    "content": "Usamos cookies e tecnologias de rastreamento semelhantes para rastrear a atividade em nosso Serviço e armazenar certas informações. Cookies são arquivos com uma pequena quantidade de dados que podem incluir um identificador único anônimo.",
+    "policy": "Você pode instruir seu navegador a recusar todos os cookies ou indicar quando um cookie está sendo enviado. No entanto, se você não aceitar cookies, talvez não consiga usar algumas partes do nosso Serviço."
+  },
+  "dataUse": {
+    "title": "Uso de Dados",
+    "content": "O The Card Goat usa os dados coletados para vários propósitos:",
+    "purposes": [
+      "Para fornecer e manter nosso Serviço",
+      "Para notificá-lo sobre mudanças em nosso Serviço",
+      "Para permitir que você participe de recursos interativos do nosso Serviço quando você optar por fazê-lo",
+      "Para fornecer suporte ao cliente",
+      "Para coletar análises ou informações valiosas para que possamos melhorar nosso Serviço",
+      "Para monitorar o uso do nosso Serviço",
+      "Para detectar, prevenir e resolver problemas técnicos"
+    ]
+  },
+  "dataSharing": {
+    "title": "Compartilhamento e Divulgação de Dados",
+    "content": "Podemos divulgar seus Dados Pessoais na crença de boa-fé de que tal ação é necessária para:",
+    "reasons": [
+      "Cumprir uma obrigação legal",
+      "Proteger e defender os direitos ou propriedade do The Card Goat",
+      "Prevenir ou investigar possíveis irregularidades relacionadas ao Serviço",
+      "Proteger a segurança pessoal dos usuários do Serviço ou do público",
+      "Proteger contra responsabilidade legal"
+    ]
+  },
+  "dataRetention": {
+    "title": "Retenção de Dados",
+    "content": "Manteremos seus Dados Pessoais apenas pelo tempo necessário para os fins estabelecidos nesta Política de Privacidade. Manteremos e usaremos seus Dados Pessoais na medida necessária para cumprir nossas obrigações legais, resolver disputas e fazer cumprir nossos acordos e políticas legais."
+  },
+  "dataTransfer": {
+    "title": "Transferência de Dados",
+    "content": "Suas informações, incluindo Dados Pessoais, podem ser transferidas para — e mantidas em — computadores localizados fora do seu estado, província, país ou outra jurisdição governamental onde as leis de proteção de dados podem ser diferentes daquelas de sua jurisdição.",
+    "consent": "Seu consentimento a esta Política de Privacidade, seguido de sua submissão de tais informações, representa seu acordo com essa transferência."
+  },
+  "security": {
+    "title": "Segurança de Dados",
+    "content": "A segurança dos seus dados é importante para nós, mas lembre-se que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro. Embora nos esforcemos para usar meios comercialmente aceitáveis para proteger seus Dados Pessoais, não podemos garantir sua segurança absoluta."
+  },
+  "yourRights": {
+    "title": "Seus Direitos de Proteção de Dados",
+    "content": "Dependendo da sua localização, você pode ter certos direitos em relação aos seus dados pessoais, como:",
+    "rights": [
+      "O direito de acessar, atualizar ou excluir as informações que temos sobre você",
+      "O direito de retificação",
+      "O direito de se opor",
+      "O direito de restrição",
+      "O direito à portabilidade de dados",
+      "O direito de retirar o consentimento"
+    ]
+  },
+  "childrenPrivacy": {
+    "title": "Privacidade das Crianças",
+    "content": "Nosso Serviço não se destina a ninguém com menos de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de qualquer pessoa com menos de 13 anos. Se você é pai ou responsável e está ciente de que seu filho nos forneceu Dados Pessoais, entre em contato conosco. Se descobrirmos que coletamos Dados Pessoais de crianças sem verificação do consentimento dos pais, tomamos medidas para remover essas informações de nossos servidores."
+  },
+  "changes": {
+    "title": "Alterações Nesta Política de Privacidade",
+    "content": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Informaremos você por e-mail e/ou um aviso destacado em nosso Serviço, antes que a alteração se torne efetiva, e atualizaremos a 'data efetiva' no topo desta Política de Privacidade."
+  },
+  "contact": {
+    "title": "Contate-nos",
+    "content": "Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em:"
+  }
+} 

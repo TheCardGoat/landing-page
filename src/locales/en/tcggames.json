@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "TCG UNIVERSE 🌟",
+  "sectionSubtitle": "Every card game you love, all in one GOAT-tier platform!",
+  "liveGamesTitle": "🚀 LIVE & READY TO GOAT! 🚀",
+  "futureGamesTitle": "🔮 THE FUTURE OF GOAT-DOM 🔮",
+  "noFavoriteGameTitle": "Don't see your favorite TCG? 🤔",
+  "noFavoriteGameDescription": "Let us know and we'll add it to the herd! Every goat's voice matters! 📢",
+  "supportedGames": [
+    {
+      "name": "Disney Lorcana",
+      "description": "The magical gathering of Disney characters!",
+      "status": "LIVE NOW"
+    },
+    {
+      "name": "Gundam CW",
+      "description": "Build your mecha army and dominate!",
+      "status": "LIVE NOW"
+    },
+    {
+      "name": "Riftbound",
+      "description": "Harness the power of the rifts!",
+      "status": "LIVE NOW"
+    }
+  ],
+  "comingSoonGames": [
+    {
+      "name": "Grand Archive",
+      "description": "The next evolution of card strategy!",
+      "status": "COMING SOON"
+    },
+    {
+      "name": "One Piece",
+      "description": "Sail the Grand Line with your crew!",
+      "status": "COMING SOON"
+    },
+    {
+      "name": "Alpha Clash",
+      "description": "All-new battle system with unlimited potential!",
+      "status": "COMING SOON"
+    }
+  ],
+  "plannedGames": [
+    {
+      "name": "Flesh and Blood",
+      "description": "Test your might in this combat-focused TCG!",
+      "status": "PLANNED"
+    },
+    {
+      "name": "Your Suggestion",
+      "description": "Tell us what game you want next!",
+      "status": "YOU DECIDE"
+    }
+  ]
+} 

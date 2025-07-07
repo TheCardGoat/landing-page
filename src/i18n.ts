@@ -31,6 +31,7 @@ import deCallToAction from './locales/de/callToAction.json';
 import deFooter from './locales/de/footer.json';
 import deTerms from './locales/de/terms.json';
 import dePrivacy from './locales/de/privacy.json';
+import deTcgGames from './locales/de/tcggames.json';
 
 import itCommon from './locales/it/common.json';
 import itHero from './locales/it/hero.json';
@@ -91,6 +92,7 @@ i18n
         footer: deFooter,
         terms: deTerms,
         privacy: dePrivacy,
+        tcggames: deTcgGames,
       },
       it: {
         common: itCommon,
