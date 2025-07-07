@@ -1,1 +1,26 @@
-{} 
+{
+  "brandTitle": "THE CARD GOAT",
+  "brandDescription": "The ultimate trading card community where legends are born and goats roam free! 🐐",
+  "quickLinks": {
+    "title": "QUICK LINKS",
+    "items": [
+      {"text": "🏠 Home", "url": "/"},
+      {"text": "🔧 Tools", "url": "#"},
+      {"text": "👥 Community", "url": "#"},
+      {"text": "📚 Guides", "url": "#"},
+      {"text": "📜 Terms of Service", "url": "/terms"}
+    ]
+  },
+  "contactInfo": {
+    "title": "GET IN TOUCH",
+    "items": [
+      "📧 hello@thecardgoat.com",
+      "💬 Discord Server",
+      "📱 @eduardomoroni",
+      "🐐 24/7"
+    ]
+  },
+  "copyright": "© 2024 The Card Goat - All rights reserved",
+  "tagline": "Made with 💖 by goats, for goats!",
+  "termsLink": "Terms of Service"
+} 

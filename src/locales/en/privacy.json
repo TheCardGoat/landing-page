@@ -1,0 +1,81 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "Last Updated:",
+  "lastUpdatedDate": "August 1, 2024",
+  "introduction": {
+    "title": "Introduction",
+    "content": "This Privacy Policy describes how The Card Goat ('we', 'our', or 'us') collects, uses, and shares your personal information when you use our website thecardgoat.com (the 'Service'). By using the Service, you agree to the collection and use of information in accordance with this policy."
+  },
+  "information": {
+    "title": "Information Collection and Use",
+    "content": "We collect several different types of information for various purposes to provide and improve our Service to you:",
+    "item1": "Personal Data: While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ('Personal Data'). This may include your email address, name, and other contact details.",
+    "item2": "Usage Data: We may also collect information on how the Service is accessed and used ('Usage Data'). This may include information such as your computer's Internet Protocol address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data."
+  },
+  "cookies": {
+    "title": "Cookies",
+    "content": "We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with a small amount of data which may include an anonymous unique identifier.",
+    "policy": "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service."
+  },
+  "dataUse": {
+    "title": "Use of Data",
+    "content": "The Card Goat uses the collected data for various purposes:",
+    "purposes": [
+      "To provide and maintain our Service",
+      "To notify you about changes to our Service",
+      "To allow you to participate in interactive features of our Service when you choose to do so",
+      "To provide customer support",
+      "To gather analysis or valuable information so that we can improve our Service",
+      "To monitor the usage of our Service",
+      "To detect, prevent and address technical issues"
+    ]
+  },
+  "dataSharing": {
+    "title": "Data Sharing and Disclosure",
+    "content": "We may disclose your Personal Data in the good faith belief that such action is necessary to:",
+    "reasons": [
+      "To comply with a legal obligation",
+      "To protect and defend the rights or property of The Card Goat",
+      "To prevent or investigate possible wrongdoing in connection with the Service",
+      "To protect the personal safety of users of the Service or the public",
+      "To protect against legal liability"
+    ]
+  },
+  "dataRetention": {
+    "title": "Data Retention",
+    "content": "We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies."
+  },
+  "dataTransfer": {
+    "title": "Transfer of Data",
+    "content": "Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.",
+    "consent": "Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer."
+  },
+  "security": {
+    "title": "Security of Data",
+    "content": "The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security."
+  },
+  "yourRights": {
+    "title": "Your Data Protection Rights",
+    "content": "Depending on your location, you may have certain rights regarding your personal data, such as:",
+    "rights": [
+      "The right to access, update or delete the information we have on you",
+      "The right of rectification",
+      "The right to object",
+      "The right of restriction",
+      "The right to data portability",
+      "The right to withdraw consent"
+    ]
+  },
+  "childrenPrivacy": {
+    "title": "Children's Privacy",
+    "content": "Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers."
+  },
+  "changes": {
+    "title": "Changes to This Privacy Policy",
+    "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the 'effective date' at the top of this Privacy Policy."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "If you have any questions about this Privacy Policy, please contact us at:"
+  }
+} 

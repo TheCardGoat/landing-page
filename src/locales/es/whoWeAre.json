@@ -1,1 +1,33 @@
-{} 
+{
+  "title": "QUIÉNES SOMOS",
+  "description": "Somos el equipo detrás de <lorcanito>Lorcanito.com</lorcanito>, un simulador de juegos de mesa impulsado por la comunidad para Disney Lorcana. Estamos aplicando nuestro aprendizaje para crear un proyecto de código abierto que pueda ser utilizado con muchos juegos de cartas.",
+  "visitButton": "Visitar Lorcanito.com 🧙‍♂️",
+  "sections": {
+    "howWeStarted": {
+      "icon": "🌟",
+      "title": "Cómo Comenzamos",
+      "description": "Esta comunidad fue fundada para resolver un problema simple: no todos tienen acceso a una escena local de JCC. Creemos que tu ubicación o circunstancias de vida no deberían ser una barrera para disfrutar y dominar los juegos que amas. The Card Goat fue creado para ser el hogar en línea para cada jugador de JCC que busca un lugar para practicar, aprender y conectar."
+    },
+    "whyJoin": {
+      "icon": "💪",
+      "title": "Por Qué Unirte",
+      "description": "Somos una comunidad sin fines de lucro, basada en fans y dedicada a ayudarte a mejorar. Proporcionamos las herramientas, recursos y un espacio de apoyo para que jugadores de todos los niveles mejoren su juego.",
+      "successStory": {
+        "highlight": "🏆 Historia de Éxito:",
+        "content": "¡Hemos ayudado a padres ocupados, profesionales y jugadores sin comunidades de juego locales a transformarse en campeones de torneos regionales!"
+      }
+    },
+    "roadmap": {
+      "icon": "🚀",
+      "title": "Nuestra Hoja de Ruta",
+      "description": "¡Apenas estamos comenzando! Nuestra comunidad está ganando impulso mientras desarrollamos herramientas para populares juegos de cartas coleccionables.",
+      "milestone": {
+        "date": "Objetivo: Principios de 2026",
+        "content": "Herramientas completamente funcionales para Disney Lorcana, Gundam y Riftbound"
+      },
+      "future": "Consideraciones futuras incluyen:",
+      "futureGames": "Grand Archive, One Piece, Alpha Clash, Flesh and Blood",
+      "joinEarly": "¡Únete temprano y ayuda a dar forma a nuestra comunidad! 🐐"
+    }
+  }
+} 

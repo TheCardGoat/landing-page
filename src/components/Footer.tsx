@@ -1,7 +1,11 @@
-
 import { Card } from '@/components/ui/card';
+import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
+  const { t } = useTranslation('footer');
+  const quickLinks = t('quickLinks.items', { returnObjects: true }) as Array<{ text: string; url: string }>;
+  const contactItems = t('contactInfo.items', { returnObjects: true }) as string[];
+  
   return (
     <footer className="py-16 px-4 bg-black text-white relative overflow-hidden">
       {/* Background decorations */}
@@ -18,9 +22,9 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="lg:col-span-2">
             <Card className="p-6 bg-gradient-to-r from-purple-600 to-pink-600 border-4 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] transform -rotate-1">
-              <h3 className="text-3xl font-black text-white mb-4">THE CARD GOAT</h3>
+              <h3 className="text-3xl font-black text-white mb-4">{t('brandTitle')}</h3>
               <p className="text-lg font-semibold text-white/90 mb-4">
-                The ultimate trading card community where legends are born and goats roam free! 🐐
+                {t('brandDescription')}
               </p>
               <div className="flex gap-4">
                 <div className="w-12 h-12 bg-yellow-400 border-4 border-black rounded-full flex items-center justify-center text-xl rotate-12">
@@ -39,13 +43,15 @@ const Footer = () => {
           {/* Quick Links */}
           <div>
             <Card className="p-6 bg-cyan-400 border-4 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] transform rotate-1 h-full">
-              <h4 className="text-xl font-black text-black mb-4">QUICK LINKS</h4>
+              <h4 className="text-xl font-black text-black mb-4">{t('quickLinks.title')}</h4>
               <ul className="space-y-2">
-                <li><a href="#" className="font-bold text-black hover:text-gray-700 transition-colors">🏠 Home</a></li>
-                <li><a href="#" className="font-bold text-black hover:text-gray-700 transition-colors">🔧 Tools</a></li>
-                <li><a href="#" className="font-bold text-black hover:text-gray-700 transition-colors">👥 Community</a></li>
-                <li><a href="#" className="font-bold text-black hover:text-gray-700 transition-colors">📚 Guides</a></li>
-                <li><a href="#" className="font-bold text-black hover:text-gray-700 transition-colors">🏆 Tournaments</a></li>
+                {quickLinks.map((link, index) => (
+                  <li key={index}>
+                    <a href={link.url} className="font-bold text-black hover:text-gray-700 transition-colors">
+                      {link.text}
+                    </a>
+                  </li>
+                ))}
               </ul>
             </Card>
           </div>
@@ -53,12 +59,11 @@ const Footer = () => {
           {/* Contact Info */}
           <div>
             <Card className="p-6 bg-yellow-400 border-4 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] transform -rotate-1 h-full">
-              <h4 className="text-xl font-black text-black mb-4">GET IN TOUCH</h4>
+              <h4 className="text-xl font-black text-black mb-4">{t('contactInfo.title')}</h4>
               <ul className="space-y-2">
-                <li className="font-bold text-black">📧 hello@thecardgoat.com</li>
-                <li className="font-bold text-black">💬 Discord Server</li>
-                <li className="font-bold text-black">📱 @eduardomoroni</li>
-                <li className="font-bold text-black">🐐 24/7</li>
+                {contactItems.map((item, index) => (
+                  <li key={index} className="font-bold text-black">{item}</li>
+                ))}
               </ul>
             </Card>
           </div>
@@ -69,17 +74,17 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-center md:text-left">
               <p className="font-bold text-lg">
-                © 2024 The Card Goat - All rights reserved
+                {t('copyright')}
               </p>
               <p className="text-gray-300 font-semibold">
-                Made with 💖 by goats, for goats!
+                {t('tagline')}
               </p>
               <div className="mt-2">
                 <a 
                   href="/terms" 
                   className="text-sm text-white hover:underline"
                 >
-                  Terms of Service
+                  {t('termsLink')}
                 </a>
               </div>
             </div>

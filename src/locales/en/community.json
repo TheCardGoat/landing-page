@@ -1,1 +1,28 @@
-{} 
+{
+  "title": "JOIN THE GOAT HERD! 🐐",
+  "description": "We're not just any community - we're the GOAT community! Whether you're a card-slinging veteran or a fresh-faced kid, there's a place for you in our herd!",
+  "features": [
+    "Online practice sessions and matches",
+    "Expert strategy guides",
+    "Friendly trading environment",
+    "24/7 support from goat experts"
+  ],
+  "testimonials": [
+    {
+      "icon": "🐐",
+      "quote": "\"This community is absolutely GOATED! I went from noob to tournament champion in 3 months!\"",
+      "author": "- CardMaster2000"
+    },
+    {
+      "icon": "🃏",
+      "quote": "\"The tools here are insane! My deck building game has never been stronger. BAAAAAH!\"",
+      "author": "- DeckBuilderPro"
+    },
+    {
+      "icon": "⚡",
+      "quote": "\"Found my trading soulmate here! The community is so welcoming and fun!\"",
+      "author": "- TradeQueen"
+    }
+  ],
+  "ctaButton": "BECOME A CARD GOAT TODAY! 🚀"
+} 

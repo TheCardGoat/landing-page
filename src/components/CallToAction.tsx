@@ -1,7 +1,11 @@
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
+import { useTranslation } from 'react-i18next';
 
 const CallToAction = () => {
+  const { t } = useTranslation('callToAction');
+  const benefits = t('benefits', { returnObjects: true }) as string[];
+  
   const navigateToDiscord = () => {
     window.open('https://discord.gg/NddrhpVZNP', '_blank');
   };
@@ -28,7 +32,7 @@ const CallToAction = () => {
               <div className="relative">
                 <div className="text-9xl text-center mb-8">🐐</div>
                 <div className="bg-yellow-400 border-4 border-black p-4 transform -rotate-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                  <p className="text-2xl font-black text-center">JOIN 41,000+ CARD GOATS</p>
+                  <p className="text-2xl font-black text-center">{t('joinCount')}</p>
                 </div>
                 <div className="absolute -top-6 -right-6 w-12 h-12 bg-cyan-400 rotate-12 rounded-full border-4 border-black animate-spin" style={{ animationDuration: '3s' }}></div>
                 <div className="absolute -bottom-4 -left-4 w-8 h-8 bg-lime-400 -rotate-12 border-4 border-black animate-bounce"></div>
@@ -40,34 +44,29 @@ const CallToAction = () => {
           <div>
             <Card className="p-8 bg-white border-6 border-black shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transform -rotate-2">
               <h2 className="text-4xl md:text-5xl font-black text-black mb-6">
-                READY TO GET YOUR GOAT ON?
+                {t('title')}
               </h2>
               <p className="text-xl font-bold text-gray-800 mb-8">
-                Join our community today and unlock exclusive benefits:
+                {t('subtitle')}
               </p>
               <ul className="space-y-4 mb-8">
-                <li className="flex items-center gap-3">
-                  <div className="w-6 h-6 bg-pink-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
-                  <span className="font-bold text-lg">Access to our full suite of trading card tools</span>
-                </li>
-                <li className="flex items-center gap-3">
-                  <div className="w-6 h-6 bg-lime-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
-                  <span className="font-bold text-lg">Connect with 41,000+ fellow card enthusiasts</span>
-                </li>
-                <li className="flex items-center gap-3">
-                  <div className="w-6 h-6 bg-cyan-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
-                  <span className="font-bold text-lg">Get early access to new features and games</span>
-                </li>
-                <li className="flex items-center gap-3">
-                  <div className="w-6 h-6 bg-yellow-400 border-2 border-black rounded-full flex items-center justify-center font-bold">✓</div>
-                  <span className="font-bold text-lg">Participate in exclusive tournaments and events</span>
-                </li>
+                {benefits.map((benefit, index) => (
+                  <li key={index} className="flex items-center gap-3">
+                    <div className={`w-6 h-6 ${
+                      index === 0 ? 'bg-pink-400' : 
+                      index === 1 ? 'bg-lime-400' : 
+                      index === 2 ? 'bg-cyan-400' : 
+                      'bg-yellow-400'
+                    } border-2 border-black rounded-full flex items-center justify-center font-bold`}>✓</div>
+                    <span className="font-bold text-lg">{benefit}</span>
+                  </li>
+                ))}
               </ul>
               <Button 
                 onClick={navigateToDiscord}
                 className="w-full bg-black hover:bg-gray-800 text-white font-black text-xl py-4 border-4 border-white shadow-[8px_8px_0px_0px_rgba(255,255,255,0.5)] transform -rotate-1 hover:rotate-0 hover:shadow-[12px_12px_0px_0px_rgba(255,255,255,0.5)] transition-all duration-300"
               >
-                JOIN OUR DISCORD 🚀
+                {t('ctaButton')}
               </Button>
             </Card>
           </div>

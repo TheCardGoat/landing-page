@@ -10,6 +10,7 @@ import enWhoWeAre from './locales/en/whoWeAre.json';
 import enCallToAction from './locales/en/callToAction.json';
 import enFooter from './locales/en/footer.json';
 import enTerms from './locales/en/terms.json';
+import enPrivacy from './locales/en/privacy.json';
 
 import esCommon from './locales/es/common.json';
 import esHero from './locales/es/hero.json';
@@ -19,6 +20,7 @@ import esWhoWeAre from './locales/es/whoWeAre.json';
 import esCallToAction from './locales/es/callToAction.json';
 import esFooter from './locales/es/footer.json';
 import esTerms from './locales/es/terms.json';
+import esPrivacy from './locales/es/privacy.json';
 
 i18n
   .use(LanguageDetector)
@@ -34,6 +36,7 @@ i18n
         callToAction: enCallToAction,
         footer: enFooter,
         terms: enTerms,
+        privacy: enPrivacy,
       },
       es: {
         common: esCommon,
@@ -44,6 +47,7 @@ i18n
         callToAction: esCallToAction,
         footer: esFooter,
         terms: esTerms,
+        privacy: esPrivacy,
       },
     },
     fallbackLng: 'en',
@@ -51,7 +55,7 @@ i18n
     interpolation: {
       escapeValue: false, // React already safes from XSS
     },
-    ns: ['common', 'hero', 'features', 'community', 'whoWeAre', 'callToAction', 'footer', 'terms'],
+    ns: ['common', 'hero', 'features', 'community', 'whoWeAre', 'callToAction', 'footer', 'terms', 'privacy'],
     defaultNS: 'common',
   });
 

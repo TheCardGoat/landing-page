@@ -1,1 +1,28 @@
-{} 
+{
+  "title": "¡ÚNETE A LA MANADA DE CABRAS! 🐐",
+  "description": "¡No somos cualquier comunidad - somos la comunidad CABRA! Ya seas un veterano experimentado o un principiante, ¡hay un lugar para ti en nuestra manada!",
+  "features": [
+    "Sesiones de práctica y partidas online",
+    "Guías de estrategia de expertos",
+    "Ambiente amigable para intercambios",
+    "Soporte 24/7 de expertos cabras"
+  ],
+  "testimonials": [
+    {
+      "icon": "🐐",
+      "quote": "\"¡Esta comunidad es absolutamente CABRA! ¡Pasé de novato a campeón de torneos en 3 meses!\"",
+      "author": "- CardMaster2000"
+    },
+    {
+      "icon": "🃏",
+      "quote": "\"¡Las herramientas aquí son increíbles! Mi juego de construcción de mazos nunca ha sido mejor. ¡BAAAAA!\"",
+      "author": "- DeckBuilderPro"
+    },
+    {
+      "icon": "⚡",
+      "quote": "\"¡Encontré a mi alma gemela de intercambios aquí! ¡La comunidad es muy acogedora y divertida!\"",
+      "author": "- TradeQueen"
+    }
+  ],
+  "ctaButton": "¡CONVIÉRTETE EN UNA CABRA DE CARTAS HOY! 🚀"
+} 
