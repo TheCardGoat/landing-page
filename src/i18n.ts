@@ -22,6 +22,16 @@ import esFooter from './locales/es/footer.json';
 import esTerms from './locales/es/terms.json';
 import esPrivacy from './locales/es/privacy.json';
 
+import deCommon from './locales/de/common.json';
+import deHero from './locales/de/hero.json';
+import deFeatures from './locales/de/features.json';
+import deCommunity from './locales/de/community.json';
+import deWhoWeAre from './locales/de/whoWeAre.json';
+import deCallToAction from './locales/de/callToAction.json';
+import deFooter from './locales/de/footer.json';
+import deTerms from './locales/de/terms.json';
+import dePrivacy from './locales/de/privacy.json';
+
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
@@ -48,6 +58,17 @@ i18n
         footer: esFooter,
         terms: esTerms,
         privacy: esPrivacy,
+      },
+      de: {
+        common: deCommon,
+        hero: deHero,
+        features: deFeatures,
+        community: deCommunity,
+        whoWeAre: deWhoWeAre,
+        callToAction: deCallToAction,
+        footer: deFooter,
+        terms: deTerms,
+        privacy: dePrivacy,
       },
     },
     fallbackLng: 'en',

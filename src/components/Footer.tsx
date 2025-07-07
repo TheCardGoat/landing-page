@@ -79,12 +79,18 @@ const Footer = () => {
               <p className="text-gray-300 font-semibold">
                 {t('tagline')}
               </p>
-              <div className="mt-2">
+              <div className="mt-2 flex gap-4">
                 <a 
                   href="/terms" 
                   className="text-sm text-white hover:underline"
                 >
                   {t('termsLink')}
+                </a>
+                <a 
+                  href="/privacy" 
+                  className="text-sm text-white hover:underline"
+                >
+                  {t('privacyLink')}
                 </a>
               </div>
             </div>

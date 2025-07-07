@@ -1,0 +1,33 @@
+{
+  "title": "WHO WE ARE",
+  "description": "We are the team behind <lorcanito>Lorcanito.com</lorcanito>, a community driven table top simulator for Disney Lorcana. We're taking our learning and creating an open-source project that can be applied to many card games.",
+  "visitButton": "Visit Lorcanito.com 🧙‍♂️",
+  "sections": {
+    "howWeStarted": {
+      "icon": "🌟",
+      "title": "How We Started",
+      "description": "This community was founded to solve a simple problem: not everyone has access to a local TCG scene. We believe that your location or life circumstances shouldn't be a barrier to enjoying and mastering the games you love. The Card Goat was created to be the online home for every TCG player looking for a place to practice, learn, and connect."
+    },
+    "whyJoin": {
+      "icon": "💪",
+      "title": "Why You Should Join",
+      "description": "We are a non-profit, fan-based community dedicated to helping you get better. We provide the tools, resources, and a supportive space for players of all skill levels to improve their game.",
+      "successStory": {
+        "highlight": "🏆 Success Story:",
+        "content": "We've helped busy parents, working professionals, and players without local gaming communities transform into regional tournament champions!"
+      }
+    },
+    "roadmap": {
+      "icon": "🚀",
+      "title": "Our Roadmap",
+      "description": "We're just getting started! Our community is building momentum as we develop tools for popular trading card games.",
+      "milestone": {
+        "date": "Target: Early 2026",
+        "content": "Fully functional tools for Disney Lorcana, Gundam, and Riftbound"
+      },
+      "future": "Future considerations include:",
+      "futureGames": "Grand Archive, One Piece, Alpha Clash, Flesh and Blood",
+      "joinEarly": "Join us early and help shape our community! 🐐"
+    }
+  }
+} 

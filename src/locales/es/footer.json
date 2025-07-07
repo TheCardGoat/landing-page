@@ -7,8 +7,8 @@
       {"text": "🏠 Inicio", "url": "/"},
       {"text": "🔧 Herramientas", "url": "#"},
       {"text": "👥 Comunidad", "url": "#"},
-      {"text": "📚 Guías", "url": "#"},
-      {"text": "📜 Términos de Servicio", "url": "/terms"}
+      {"text": "📜 Términos de Servicio", "url": "/terms"},
+      {"text": "🔒 Política de Privacidad", "url": "/privacy"}
     ]
   },
   "contactInfo": {
@@ -22,5 +22,6 @@
   },
   "copyright": "© 2024 The Card Goat - Todos los derechos reservados",
   "tagline": "¡Hecho con 💖 por cabras, para cabras!",
-  "termsLink": "Términos de Servicio"
+  "termsLink": "Términos de Servicio",
+  "privacyLink": "Política de Privacidad"
 } 

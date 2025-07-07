@@ -1,0 +1,36 @@
+{
+  "title": "GOAT-TIER FEATURES",
+  "subtitle": "Tools so good, they'll make you go \"BAAAAAH!\" 🐐",
+  "features": [
+    {
+      "icon": "🃏",
+      "title": "Deck Builder",
+      "description": "Build, save, and share your decks with our intuitive deck builder. Import and export lists with ease!"
+    },
+    {
+      "icon": "🎮",
+      "title": "Play Simulator",
+      "description": "Practice your strategies in our realistic game simulator with full rules enforcement."
+    },
+    {
+      "icon": "📊",
+      "title": "Meta Analysis",
+      "description": "Stay ahead of the competition with our comprehensive meta analysis tools and reports."
+    },
+    {
+      "icon": "🧠",
+      "title": "AI Training Partner",
+      "description": "Improve your skills by playing against our advanced AI that learns and adapts to your playstyle."
+    },
+    {
+      "icon": "🏆",
+      "title": "Tournaments",
+      "description": "Join our regular online tournaments and climb the leaderboard to earn special rewards!"
+    },
+    {
+      "icon": "📱",
+      "title": "Mobile Compatible",
+      "description": "Take your cards anywhere with our mobile-friendly platform - practice anytime, anywhere!"
+    }
+  ]
+} 
