@@ -1,41 +1,41 @@
 {
-  "title": "Terms of Service",
-  "lastUpdated": "Last Updated:",
-  "lastUpdatedDate": "August 1, 2024",
+  "title": "Nutzungsbedingungen",
+  "lastUpdated": "Zuletzt aktualisiert:",
+  "lastUpdatedDate": "1. August 2024",
   "introduction": {
-    "title": "Introduction",
-    "content": "Welcome to The Card Goat! These Terms of Service govern your use of our website located at thecardgoat.com (the 'Service') operated by The Card Goat. By accessing our website, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the Service."
+    "title": "Einleitung",
+    "content": "Willkommen bei The Card Goat! Diese Nutzungsbedingungen regeln die Nutzung unserer Website unter thecardgoat.com (der 'Service'), die von The Card Goat betrieben wird. Durch den Zugriff auf unsere Website erklärst du dich mit diesen Bedingungen einverstanden. Wenn du mit einem Teil der Bedingungen nicht einverstanden bist, darfst du den Service nicht nutzen."
   },
   "usage": {
-    "title": "Use of the Service",
-    "content": "The Card Goat grants you a non-transferable, non-exclusive license to use the Service for personal, non-commercial purposes. Your use of the Service is subject to the following restrictions:",
-    "item1": "You may not use the Service for any illegal or unauthorized purpose",
-    "item2": "You may not copy, modify, distribute, sell, or lease any part of our Service",
-    "item3": "You may not reverse engineer or attempt to extract the source code of our software"
+    "title": "Nutzung des Services",
+    "content": "The Card Goat gewährt dir eine nicht übertragbare, nicht exklusive Lizenz zur Nutzung des Services für persönliche, nicht-kommerzielle Zwecke. Deine Nutzung des Services unterliegt den folgenden Einschränkungen:",
+    "item1": "Du darfst den Service nicht für illegale oder nicht autorisierte Zwecke nutzen",
+    "item2": "Du darfst keinen Teil unseres Services kopieren, modifizieren, vertreiben, verkaufen oder vermieten",
+    "item3": "Du darfst nicht reverse-engineeren oder versuchen, den Quellcode unserer Software zu extrahieren"
   },
   "account": {
-    "title": "User Accounts",
-    "content": "When you create an account with us, you must provide information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
-    "responsibilities": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password. We encourage you to use a 'strong' password (including upper and lower case letters, numbers, and symbols) with your account."
+    "title": "Benutzerkonten",
+    "content": "Wenn du ein Konto bei uns erstellst, musst du Informationen angeben, die zu jeder Zeit korrekt, vollständig und aktuell sind. Ein Verstoß dagegen stellt einen Verstoß gegen die Nutzungsbedingungen dar, was zur sofortigen Kündigung deines Kontos in unserem Service führen kann.",
+    "responsibilities": "Du bist verantwortlich für den Schutz des Passworts, das du für den Zugriff auf den Service verwendest, sowie für alle Aktivitäten oder Aktionen unter deinem Passwort. Wir empfehlen dir, ein 'starkes' Passwort (mit Groß- und Kleinbuchstaben, Zahlen und Symbolen) für dein Konto zu verwenden."
   },
   "intellectual": {
-    "title": "Intellectual Property",
-    "content": "The Service and its original content (excluding user-provided content), features, and functionality are and will remain the exclusive property of The Card Goat and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of The Card Goat."
+    "title": "Geistiges Eigentum",
+    "content": "Der Service und seine originellen Inhalte (ausgenommen von Benutzern bereitgestellte Inhalte), Funktionen und Funktionalitäten sind und bleiben das ausschließliche Eigentum von The Card Goat und seinen Lizenzgebern. Der Service ist durch Urheberrecht, Markenrecht und andere Gesetze der Vereinigten Staaten und anderer Länder geschützt. Unsere Marken und unser Erscheinungsbild dürfen nicht ohne vorherige schriftliche Zustimmung von The Card Goat in Verbindung mit einem Produkt oder einer Dienstleistung verwendet werden."
   },
   "limitation": {
-    "title": "Limitation of Liability",
-    "content": "In no event shall The Card Goat, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage."
+    "title": "Haftungsbeschränkung",
+    "content": "In keinem Fall haften The Card Goat oder seine Direktoren, Mitarbeiter, Partner, Vertreter, Lieferanten oder verbundene Unternehmen für indirekte, zufällige, besondere, Folge- oder Strafschäden, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, Daten, Nutzung, Goodwill oder andere immaterielle Verluste, die sich aus (i) deinem Zugriff auf oder der Nutzung oder Unfähigkeit zur Nutzung des Services; (ii) jeglichem Verhalten oder Inhalt Dritter im Service; (iii) jeglichen über den Service erhaltenen Inhalten; und (iv) unbefugtem Zugriff, Nutzung oder Änderung deiner Übermittlungen oder Inhalte ergeben, unabhängig davon, ob sie auf einer Garantie, einem Vertrag, einer unerlaubten Handlung (einschließlich Fahrlässigkeit) oder einer anderen Rechtstheorie basieren und ob wir über die Möglichkeit eines solchen Schadens informiert wurden oder nicht."
   },
   "termination": {
-    "title": "Termination",
-    "content": "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service."
+    "title": "Kündigung",
+    "content": "Wir können dein Konto sofort kündigen oder sperren, ohne vorherige Ankündigung oder Haftung, aus irgendeinem Grund, einschließlich, aber nicht beschränkt auf, wenn du gegen die Bedingungen verstößt. Mit der Kündigung erlischt dein Recht zur Nutzung des Services mit sofortiger Wirkung. Wenn du dein Konto kündigen möchtest, kannst du einfach die Nutzung des Services einstellen."
   },
   "changes": {
-    "title": "Changes to Terms",
-    "content": "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms."
+    "title": "Änderungen der Bedingungen",
+    "content": "Wir behalten uns das Recht vor, diese Bedingungen nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Was eine wesentliche Änderung darstellt, wird nach unserem alleinigen Ermessen bestimmt. Durch die weitere Nutzung oder den Zugriff auf unseren Service, nachdem diese Überarbeitungen wirksam geworden sind, erklärst du dich damit einverstanden, an die überarbeiteten Bedingungen gebunden zu sein."
   },
   "contact": {
-    "title": "Contact Us",
-    "content": "If you have any questions about these Terms, please contact us at:"
+    "title": "Kontaktiere uns",
+    "content": "Wenn du Fragen zu diesen Bedingungen hast, kontaktiere uns bitte unter:"
   }
 } 

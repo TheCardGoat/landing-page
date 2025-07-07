@@ -1,81 +1,81 @@
 {
-  "title": "Privacy Policy",
-  "lastUpdated": "Last Updated:",
-  "lastUpdatedDate": "August 1, 2024",
+  "title": "Datenschutzrichtlinie",
+  "lastUpdated": "Zuletzt aktualisiert:",
+  "lastUpdatedDate": "1. August 2024",
   "introduction": {
-    "title": "Introduction",
-    "content": "This Privacy Policy describes how The Card Goat ('we', 'our', or 'us') collects, uses, and shares your personal information when you use our website thecardgoat.com (the 'Service'). By using the Service, you agree to the collection and use of information in accordance with this policy."
+    "title": "Einleitung",
+    "content": "Diese Datenschutzrichtlinie beschreibt, wie The Card Goat ('wir', 'uns' oder 'unser') deine persönlichen Informationen sammelt, verwendet und teilt, wenn du unsere Website thecardgoat.com (der 'Service') nutzt. Durch die Nutzung des Services erklärst du dich mit der Sammlung und Verwendung von Informationen gemäß dieser Richtlinie einverstanden."
   },
   "information": {
-    "title": "Information Collection and Use",
-    "content": "We collect several different types of information for various purposes to provide and improve our Service to you:",
-    "item1": "Personal Data: While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ('Personal Data'). This may include your email address, name, and other contact details.",
-    "item2": "Usage Data: We may also collect information on how the Service is accessed and used ('Usage Data'). This may include information such as your computer's Internet Protocol address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data."
+    "title": "Informationssammlung und -nutzung",
+    "content": "Wir sammeln verschiedene Arten von Informationen für verschiedene Zwecke, um dir unseren Service bereitzustellen und zu verbessern:",
+    "item1": "Persönliche Daten: Bei der Nutzung unseres Services bitten wir dich möglicherweise, uns bestimmte persönlich identifizierbare Informationen zur Verfügung zu stellen, die zur Kontaktaufnahme oder Identifizierung verwendet werden können ('Persönliche Daten'). Dies kann deine E-Mail-Adresse, deinen Namen und andere Kontaktdaten umfassen.",
+    "item2": "Nutzungsdaten: Wir können auch Informationen darüber sammeln, wie auf den Service zugegriffen und wie er genutzt wird ('Nutzungsdaten'). Diese können Informationen wie die Internet-Protokoll-Adresse deines Computers, den Browsertyp, die Browserversion, die von dir besuchten Seiten unseres Services, den Zeitpunkt und das Datum deines Besuchs, die auf diesen Seiten verbrachte Zeit und andere Diagnosedaten umfassen."
   },
   "cookies": {
     "title": "Cookies",
-    "content": "We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with a small amount of data which may include an anonymous unique identifier.",
-    "policy": "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service."
+    "content": "Wir verwenden Cookies und ähnliche Tracking-Technologien, um die Aktivität auf unserem Service zu verfolgen und bestimmte Informationen zu speichern. Cookies sind Dateien mit einer kleinen Datenmenge, die ein anonymes eindeutiges Kennzeichen enthalten können.",
+    "policy": "Du kannst deinen Browser anweisen, alle Cookies abzulehnen oder anzuzeigen, wenn ein Cookie gesendet wird. Wenn du jedoch keine Cookies akzeptierst, kannst du möglicherweise einige Teile unseres Services nicht nutzen."
   },
   "dataUse": {
-    "title": "Use of Data",
-    "content": "The Card Goat uses the collected data for various purposes:",
+    "title": "Verwendung von Daten",
+    "content": "The Card Goat verwendet die gesammelten Daten für verschiedene Zwecke:",
     "purposes": [
-      "To provide and maintain our Service",
-      "To notify you about changes to our Service",
-      "To allow you to participate in interactive features of our Service when you choose to do so",
-      "To provide customer support",
-      "To gather analysis or valuable information so that we can improve our Service",
-      "To monitor the usage of our Service",
-      "To detect, prevent and address technical issues"
+      "Um unseren Service bereitzustellen und zu warten",
+      "Um dich über Änderungen an unserem Service zu informieren",
+      "Um dir die Teilnahme an interaktiven Funktionen unseres Services zu ermöglichen, wenn du dies wünschst",
+      "Um Kundensupport zu bieten",
+      "Um Analysen oder wertvolle Informationen zu sammeln, damit wir unseren Service verbessern können",
+      "Um die Nutzung unseres Services zu überwachen",
+      "Um technische Probleme zu erkennen, zu vermeiden und zu beheben"
     ]
   },
   "dataSharing": {
-    "title": "Data Sharing and Disclosure",
-    "content": "We may disclose your Personal Data in the good faith belief that such action is necessary to:",
+    "title": "Datenfreigabe und Offenlegung",
+    "content": "Wir können deine persönlichen Daten in gutem Glauben offenlegen, dass eine solche Maßnahme notwendig ist, um:",
     "reasons": [
-      "To comply with a legal obligation",
-      "To protect and defend the rights or property of The Card Goat",
-      "To prevent or investigate possible wrongdoing in connection with the Service",
-      "To protect the personal safety of users of the Service or the public",
-      "To protect against legal liability"
+      "Einer gesetzlichen Verpflichtung nachzukommen",
+      "Die Rechte oder das Eigentum von The Card Goat zu schützen und zu verteidigen",
+      "Mögliches Fehlverhalten im Zusammenhang mit dem Service zu verhindern oder zu untersuchen",
+      "Die persönliche Sicherheit der Benutzer des Services oder der Öffentlichkeit zu schützen",
+      "Vor rechtlicher Haftung zu schützen"
     ]
   },
   "dataRetention": {
-    "title": "Data Retention",
-    "content": "We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies."
+    "title": "Datenspeicherung",
+    "content": "Wir werden deine persönlichen Daten nur so lange aufbewahren, wie es für die in dieser Datenschutzrichtlinie festgelegten Zwecke erforderlich ist. Wir werden deine persönlichen Daten in dem Umfang aufbewahren und verwenden, der zur Erfüllung unserer gesetzlichen Verpflichtungen, zur Beilegung von Streitigkeiten und zur Durchsetzung unserer rechtlichen Vereinbarungen und Richtlinien erforderlich ist."
   },
   "dataTransfer": {
-    "title": "Transfer of Data",
-    "content": "Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.",
-    "consent": "Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer."
+    "title": "Datenübertragung",
+    "content": "Deine Informationen, einschließlich persönlicher Daten, können auf Computer übertragen und dort gespeichert werden, die sich außerhalb deines Bundesstaates, deiner Provinz, deines Landes oder einer anderen staatlichen Gerichtsbarkeit befinden, in der die Datenschutzgesetze von denen deiner Gerichtsbarkeit abweichen können.",
+    "consent": "Deine Zustimmung zu dieser Datenschutzrichtlinie, gefolgt von deiner Übermittlung solcher Informationen, stellt deine Zustimmung zu dieser Übertragung dar."
   },
   "security": {
-    "title": "Security of Data",
-    "content": "The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security."
+    "title": "Datensicherheit",
+    "content": "Die Sicherheit deiner Daten ist uns wichtig, aber bedenke, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100% sicher ist. Während wir bestrebt sind, kommerziell akzeptable Mittel zum Schutz deiner persönlichen Daten zu verwenden, können wir ihre absolute Sicherheit nicht garantieren."
   },
   "yourRights": {
-    "title": "Your Data Protection Rights",
-    "content": "Depending on your location, you may have certain rights regarding your personal data, such as:",
+    "title": "Deine Datenschutzrechte",
+    "content": "Abhängig von deinem Standort hast du möglicherweise bestimmte Rechte bezüglich deiner persönlichen Daten, wie zum Beispiel:",
     "rights": [
-      "The right to access, update or delete the information we have on you",
-      "The right of rectification",
-      "The right to object",
-      "The right of restriction",
-      "The right to data portability",
-      "The right to withdraw consent"
+      "Das Recht auf Zugriff, Aktualisierung oder Löschung der Informationen, die wir über dich haben",
+      "Das Recht auf Berichtigung",
+      "Das Recht auf Widerspruch",
+      "Das Recht auf Einschränkung",
+      "Das Recht auf Datenübertragbarkeit",
+      "Das Recht auf Widerruf der Zustimmung"
     ]
   },
   "childrenPrivacy": {
-    "title": "Children's Privacy",
-    "content": "Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers."
+    "title": "Datenschutz für Kinder",
+    "content": "Unser Service richtet sich nicht an Personen unter 13 Jahren. Wir sammeln wissentlich keine persönlich identifizierbaren Informationen von Personen unter 13 Jahren. Wenn du ein Elternteil oder Erziehungsberechtigter bist und weißt, dass dein Kind uns persönliche Daten zur Verfügung gestellt hat, kontaktiere uns bitte. Wenn wir erfahren, dass wir persönliche Daten von Kindern ohne Überprüfung der elterlichen Zustimmung gesammelt haben, ergreifen wir Maßnahmen, um diese Informationen von unseren Servern zu entfernen."
   },
   "changes": {
-    "title": "Changes to This Privacy Policy",
-    "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the 'effective date' at the top of this Privacy Policy."
+    "title": "Änderungen dieser Datenschutzrichtlinie",
+    "content": "Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden dich über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen. Wir werden dich per E-Mail und/oder durch eine auffällige Mitteilung auf unserem Service informieren, bevor die Änderung wirksam wird, und das 'Datum des Inkrafttretens' oben in dieser Datenschutzrichtlinie aktualisieren."
   },
   "contact": {
-    "title": "Contact Us",
-    "content": "If you have any questions about this Privacy Policy, please contact us at:"
+    "title": "Kontaktiere uns",
+    "content": "Wenn du Fragen zu dieser Datenschutzrichtlinie hast, kontaktiere uns bitte unter:"
   }
 } 

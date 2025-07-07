@@ -1,36 +1,36 @@
 {
-  "title": "GOAT-TIER FEATURES",
-  "subtitle": "Tools so good, they'll make you go \"BAAAAAH!\" 🐐",
+  "title": "ZIEGEN-LEVEL FUNKTIONEN",
+  "subtitle": "Tools so gut, dass sie dich \"MÄÄÄH!\" rufen lassen! 🐐",
   "features": [
     {
       "icon": "🃏",
-      "title": "Deck Builder",
-      "description": "Build, save, and share your decks with our intuitive deck builder. Import and export lists with ease!"
+      "title": "Deck-Builder",
+      "description": "Baue, speichere und teile deine Decks mit unserem intuitiven Deck-Builder. Importiere und exportiere Listen mit Leichtigkeit!"
     },
     {
       "icon": "🎮",
-      "title": "Play Simulator",
-      "description": "Practice your strategies in our realistic game simulator with full rules enforcement."
+      "title": "Spiel-Simulator",
+      "description": "Übe deine Strategien in unserem realistischen Spielsimulator mit vollständiger Regeldurchsetzung."
     },
     {
       "icon": "📊",
-      "title": "Meta Analysis",
-      "description": "Stay ahead of the competition with our comprehensive meta analysis tools and reports."
+      "title": "Meta-Analyse",
+      "description": "Bleibe der Konkurrenz mit unseren umfassenden Meta-Analyse-Tools und Berichten einen Schritt voraus."
     },
     {
       "icon": "🧠",
-      "title": "AI Training Partner",
-      "description": "Improve your skills by playing against our advanced AI that learns and adapts to your playstyle."
+      "title": "KI-Trainingspartner",
+      "description": "Verbessere deine Fähigkeiten, indem du gegen unsere fortschrittliche KI spielst, die von deinem Spielstil lernt und sich anpasst."
     },
     {
       "icon": "🏆",
-      "title": "Tournaments",
-      "description": "Join our regular online tournaments and climb the leaderboard to earn special rewards!"
+      "title": "Turniere",
+      "description": "Nimm an unseren regelmäßigen Online-Turnieren teil und erklimme die Rangliste, um besondere Belohnungen zu erhalten!"
     },
     {
       "icon": "📱",
-      "title": "Mobile Compatible",
-      "description": "Take your cards anywhere with our mobile-friendly platform - practice anytime, anywhere!"
+      "title": "Mobil-kompatibel",
+      "description": "Nimm deine Karten überall mit auf unserer mobilfreundlichen Plattform - übe jederzeit und überall!"
     }
   ]
 } 

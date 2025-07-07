@@ -1,0 +1,36 @@
+{
+  "title": "RECURSOS DE PRIMEIRA",
+  "subtitle": "Ferramentas tão boas que vão te fazer dizer \"BÉÉÉÉÉ!\" 🐐",
+  "features": [
+    {
+      "icon": "🃏",
+      "title": "Construtor de Decks",
+      "description": "Construa, salve e compartilhe seus decks com nosso construtor intuitivo. Importe e exporte listas com facilidade!"
+    },
+    {
+      "icon": "🎮",
+      "title": "Simulador de Jogo",
+      "description": "Pratique suas estratégias em nosso simulador realista com aplicação completa das regras."
+    },
+    {
+      "icon": "📊",
+      "title": "Análise de Meta",
+      "description": "Mantenha-se à frente da competição com nossas ferramentas e relatórios abrangentes de análise de meta."
+    },
+    {
+      "icon": "🧠",
+      "title": "Parceiro de Treino com IA",
+      "description": "Melhore suas habilidades jogando contra nossa IA avançada que aprende e se adapta ao seu estilo de jogo."
+    },
+    {
+      "icon": "🏆",
+      "title": "Torneios",
+      "description": "Participe de nossos torneios online regulares e suba no ranking para ganhar recompensas especiais!"
+    },
+    {
+      "icon": "📱",
+      "title": "Compatível com Dispositivos Móveis",
+      "description": "Leve suas cartas para qualquer lugar com nossa plataforma otimizada para celulares - pratique a qualquer hora, em qualquer lugar!"
+    }
+  ]
+} 

@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "UNIVERSO DE TCG 🌟",
+  "sectionSubtitle": "Todos os jogos de cartas que você ama, em uma única plataforma de PRIMEIRA!",
+  "liveGamesTitle": "🚀 AO VIVO E PRONTOS PARA JOGAR! 🚀",
+  "futureGamesTitle": "🔮 O FUTURO DO REBANHO 🔮",
+  "noFavoriteGameTitle": "Não vê seu TCG favorito? 🤔",
+  "noFavoriteGameDescription": "Nos avise e adicionaremos ao rebanho! A voz de cada bode importa! 📢",
+  "supportedGames": [
+    {
+      "name": "Disney Lorcana",
+      "description": "A reunião mágica de personagens Disney!",
+      "status": "DISPONÍVEL AGORA"
+    },
+    {
+      "name": "Gundam CW",
+      "description": "Monte seu exército mecha e domine!",
+      "status": "DISPONÍVEL AGORA"
+    },
+    {
+      "name": "Riftbound",
+      "description": "Aproveite o poder das fendas!",
+      "status": "DISPONÍVEL AGORA"
+    }
+  ],
+  "comingSoonGames": [
+    {
+      "name": "Grand Archive",
+      "description": "A próxima evolução da estratégia de cartas!",
+      "status": "EM BREVE"
+    },
+    {
+      "name": "One Piece",
+      "description": "Navegue pela Grand Line com sua tripulação!",
+      "status": "EM BREVE"
+    },
+    {
+      "name": "Alpha Clash",
+      "description": "Sistema de batalha totalmente novo com potencial ilimitado!",
+      "status": "EM BREVE"
+    }
+  ],
+  "plannedGames": [
+    {
+      "name": "Flesh and Blood",
+      "description": "Teste sua força neste TCG focado em combate!",
+      "status": "PLANEJADO"
+    },
+    {
+      "name": "Sua Sugestão",
+      "description": "Diga-nos qual jogo você quer a seguir!",
+      "status": "VOCÊ DECIDE"
+    }
+  ]
+} 
