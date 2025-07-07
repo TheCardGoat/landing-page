@@ -7,8 +7,8 @@
       {"text": "🏠 Home", "url": "/"},
       {"text": "🔧 Tools", "url": "#"},
       {"text": "👥 Community", "url": "#"},
-      {"text": "📚 Guides", "url": "#"},
-      {"text": "📜 Terms of Service", "url": "/terms"}
+      {"text": "📜 Terms of Service", "url": "/terms"},
+      {"text": "🔒 Privacy Policy", "url": "/privacy"}
     ]
   },
   "contactInfo": {
@@ -22,5 +22,6 @@
   },
   "copyright": "© 2024 The Card Goat - All rights reserved",
   "tagline": "Made with 💖 by goats, for goats!",
-  "termsLink": "Terms of Service"
+  "termsLink": "Terms of Service",
+  "privacyLink": "Privacy Policy"
 } 
