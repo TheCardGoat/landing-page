@@ -42,6 +42,17 @@ import itFooter from './locales/it/footer.json';
 import itTerms from './locales/it/terms.json';
 import itPrivacy from './locales/it/privacy.json';
 
+import ptBRCommon from './locales/pt-BR/common.json';
+import ptBRHero from './locales/pt-BR/hero.json';
+import ptBRFeatures from './locales/pt-BR/features.json';
+import ptBRCommunity from './locales/pt-BR/community.json';
+import ptBRWhoWeAre from './locales/pt-BR/whoWeAre.json';
+import ptBRCallToAction from './locales/pt-BR/callToAction.json';
+import ptBRFooter from './locales/pt-BR/footer.json';
+import ptBRTerms from './locales/pt-BR/terms.json';
+import ptBRPrivacy from './locales/pt-BR/privacy.json';
+import ptBRTcgGames from './locales/pt-BR/tcggames.json';
+
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
@@ -91,17 +102,6 @@ i18n
         terms: itTerms,
         privacy: itPrivacy,
       },
-    },
-    fallbackLng: 'en',
-    debug: process.env.NODE_ENV !== 'production',
-    interpolation: {
-      escapeValue: false, // React already safes from XSS
-    },
-    ns: ['common', 'hero', 'features', 'community', 'whoWeAre', 'callToAction', 'footer', 'terms', 'privacy'],
-    defaultNS: 'common',
-  });
-
-export default i18n; 
       'pt-BR': {
         common: ptBRCommon,
         hero: ptBRHero,
